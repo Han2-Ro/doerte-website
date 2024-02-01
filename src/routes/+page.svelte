@@ -1,7 +1,7 @@
 <script>
+    import Hero from "$lib/homepage/Hero.svelte";
     import Info from "$lib/homepage/Info.svelte";
-    import UnderConstruction from "$lib/homepage/UnderConstruction.svelte";
 </script>
 
-<UnderConstruction />
+<Hero />
 <Info />

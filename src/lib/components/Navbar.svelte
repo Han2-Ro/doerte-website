@@ -5,10 +5,11 @@
     const pages = getAllPages();
 </script>
 
-<header class="fixed bg-white w-full">
+<header class="bg-white w-full">
     <nav class="py-4 px-28 flex items-center justify-between">
-        <a href="/">
+        <a href="/" class="flex items-center">
             <img src={logo} alt="Logo" class="h-20" />
+            <p class="text-xl">Dörte Brügmann</p>
         </a>
         <ul class="flex gap-8">
             {#each pages as page}
@@ -19,4 +20,3 @@
         </ul>
     </nav>
 </header>
-<div class="py-10" />
