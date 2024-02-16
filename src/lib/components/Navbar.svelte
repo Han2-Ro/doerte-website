@@ -16,9 +16,9 @@
 </script>
 
 <header class="bg-white w-full">
-    <nav class="py-4 px-28 flex items-center justify-between">
+    <nav class=" py-2 px-5 lg:py-4 lg:px-28 flex items-center justify-between">
         <a href="/" class="flex items-center">
-            <img src={logo} alt="Logo" class="h-20" />
+            <img src={logo} alt="Logo" class="h-12 lg:h-20" />
             <p class="text-xl">Dörte Brügmann</p>
         </a>
         <!-- Desktop menu -->
