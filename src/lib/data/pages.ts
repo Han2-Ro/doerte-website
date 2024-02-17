@@ -5,9 +5,10 @@ type Page = {
 
 const pages: Page[] = [
     { name: 'Home', url: '/' },
-    { name: 'Über mich', url: '/about' },
+    { name: 'Über_mich', url: '/about' },
     { name: 'Therapie', url: '/therapy' },
-    { name: 'Kontakt', url: '/contact' }
+    { name: 'Kontakt', url: '/contact' },
+    { name: 'Links', url: '/links'},
 ];
 
 export function getAllPages() {

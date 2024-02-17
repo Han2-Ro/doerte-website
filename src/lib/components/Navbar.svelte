@@ -16,16 +16,19 @@
 </script>
 
 <header class="bg-white w-full">
-    <nav class=" py-2 px-5 lg:py-4 lg:px-28 flex items-center justify-between">
-        <a href="/" class="flex items-center">
-            <img src={logo} alt="Logo" class="h-12 lg:h-20" />
-            <p class="text-xl">Dörte Brügmann</p>
+    <nav class=" py-2 px-5 lg:py-4 lg:px-10 flex items-center justify-between">
+        <a href="/" class=" mr-10 flex gap-5 lg:gap-10 items-center">
+            <img src={logo} alt="Logo" class="h-10 lg:h-20" />
+            <div>
+                <p class="text-xl">Dörte Brügmann</p>
+                <p>Praxis für Körperarbeit und Traumatherapie</p>
+            </div>
         </a>
         <!-- Desktop menu -->
         <ul class="hidden lg:flex gap-8">
             {#each pages as page}
                 <li>
-                    <a href={page.url} class=" text-2xl">{page.name}</a>
+                    <a href={page.url} class=" text-lg">{page.name}</a>
                 </li>
             {/each}
         </ul>
@@ -78,7 +81,7 @@
                         <li>
                             <a
                                 href={page.url}
-                                class=" text-2xl"
+                                class=" text-2xl p-5"
                                 on:click={closeMenu}
                                 >{page.name}
                             </a>
