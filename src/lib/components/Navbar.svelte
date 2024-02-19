@@ -15,7 +15,7 @@
     };
 </script>
 
-<header class="bg-white w-full">
+<header class=" sticky top-0 z-10 bg-white w-full">
     <nav class=" py-2 px-5 lg:py-4 lg:px-10 flex items-center justify-between">
         <a href="/" class=" mr-10 flex gap-5 lg:gap-10 items-center">
             <img src={logo} alt="Logo" class="h-10 lg:h-20" />
