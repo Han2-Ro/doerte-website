@@ -1,35 +1,30 @@
 <script>
     import { fade } from "svelte/transition";
+    import Poppies from "$lib/assets/poppies.webp";
+
     let show_source = false;
 </script>
 
 <section
 >
     <div
-    class="h-[30rem] w-full bg-cover bg-center p-5 relative lg:pt-20"
+    class="h-[30rem] w-full bg-cover bg-center p-10 relative"
     role="doc-cover"
     on:mouseenter={() => (show_source = true)}
     on:mouseleave={() => (show_source = false)}
     >
-    {#if show_source}
-        <p
-        class="text-white py-1 px-2 bg-opacity-50 bg-black absolute bottom-0 right-0"
-        transition:fade
-        >
-        Pixabay - von Max Mustermann
-    </p>
-    {/if}
-    <div class="flex justify-center">
+    <div class=" h-full flex flex-col justify-center">
+        <img src={Poppies} alt="orangefarbene Mohnblumen" class="absolute right-24 h-[25rem] rounded-[50%] border-4 border-dark-green">
+    </div>
         <div
-        class="p-5 max-w-[50rem] rounded-3xl bg-lime-900 absolute -bottom-16 text-white"
+        class="p-5 border-2 border-light-green-20 max-w-[50rem] rounded-3xl bg-lime-900 absolute -bottom-16 text-white"
         >
-        <p class="text-2xl">
+        <p class="text-2xl text-center text-yellow-400">
             „Und der Tag kam, an dem das Risiko, fest in der geschlossenen
             Knospe zu bleiben, schmerzhafter wurde, als das Risiko, zu blühen.“
         </p>
-        <p class="text-xl italic">- Anaïs Nin</p>
+        <p class="text-xl italic text-center text-yellow-400">- Anaïs Nin</p>
     </div>
-</div>
 </div>
 </section>
 
