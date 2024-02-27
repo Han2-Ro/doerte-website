@@ -9,6 +9,9 @@ module.exports = {
 				'dark-green': '#2e7d32',
       		},
 		},
+		fontFamily: {
+			'Merriweather': ['Merriweather', 'serif'],
+		}
 	},
 	plugins: [],
 }
