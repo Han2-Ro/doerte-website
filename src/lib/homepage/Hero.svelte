@@ -17,13 +17,13 @@
         <img src={Poppies} alt="orangefarbene Mohnblumen" class="absolute right-24 h-[25rem] rounded-[50%] border-4 border-dark-green">
     </div>
         <div
-        class="p-5 border-2 border-light-green-20 max-w-[50rem] rounded-3xl bg-lime-900 absolute -bottom-16 text-white"
+        class="p-5 border-2 border-light-green-20 max-w-[50rem] rounded-3xl bg-lime-900 absolute -bottom-16 font-handwriting text-yellow-400"
         >
-        <p class="text-2xl text-center text-yellow-400">
+        <p class="text-2xl text-center">
             „Und der Tag kam, an dem das Risiko, fest in der geschlossenen
             Knospe zu bleiben, schmerzhafter wurde, als das Risiko, zu blühen.“
         </p>
-        <p class="text-xl italic text-center text-yellow-400">- Anaïs Nin</p>
+        <p class="text-xl italic text-center">- Anaïs Nin</p>
     </div>
 </div>
 </section>

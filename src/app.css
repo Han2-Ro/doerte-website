@@ -4,5 +4,15 @@
 
 @font-face {
     font-family: "Merriweather";
-    src: url("/fonts/Merriweather/Merriweather-Regular.ttf");
+    src: url("/fonts/Merriweather/Merriweather-Regular.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "Open Sans";
+    src: url(/fonts/Open_Sans/OpenSans-VariableFont_wdth,wght.ttf);
+}
+
+@font-face {
+    font-family: "Kalam";
+    src: url(/fonts/Kalam/Kalam-Regular.ttf);
 }

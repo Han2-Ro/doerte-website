@@ -2,7 +2,7 @@
     import daisies from "$lib/assets/daisies.webp";
 </script>
 
-<section class=" mt-10 mb-10 flex px-20 gap-20 font-Merriweather text-xl leading-8">
+<section class=" mt-10 mb-10 flex px-20 gap-20 font-serif text-xl leading-8">
     <img class="h-[40rem]" src={daisies} alt="Gänseblühmchen in einem weichen violettem Licht">
     <div>
 

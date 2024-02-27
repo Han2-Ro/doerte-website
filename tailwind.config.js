@@ -10,7 +10,9 @@ module.exports = {
       		},
 		},
 		fontFamily: {
-			'Merriweather': ['Merriweather', 'serif'],
+			'serif': ['Merriwsdfgeather', 'serif'],
+			'sans': ['Open Sans', 'sans-serif'],
+			'handwriting': ['Kalam', 'serif'],
 		}
 	},
 	plugins: [],

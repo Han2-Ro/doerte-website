@@ -16,6 +16,5 @@
     h3 {
         font-size: 1.5rem;
         font-weight: 600;
-        font-family: 'Lucida Caligraphy', 'Lucida Handwriting', sans-serif;
     }
 </style>
