@@ -9,6 +9,11 @@ module.exports = {
 				'dark-green': '#2e7d32',
       		},
 		},
+		fontFamily: {
+			'serif': ['Merriwsdfgeather', 'serif'],
+			'sans': ['Open Sans', 'sans-serif'],
+			'handwriting': ['Kalam', 'serif'],
+		}
 	},
 	plugins: [],
 }
