@@ -2,10 +2,10 @@
     import daisies from "$lib/assets/daisies.webp";
 </script>
 
-<section class=" mt-10 mb-28 flex px-10 gap-16 text-xl leading-8">
+<section class=" max-w-[1800px] flex mt-10 mb-28 px-10">
     <div
         id="quote"
-        class="w-1/3 p-16 pt-16 text-3xl leading-relaxed font-handwriting text-center"
+        class=" w-2/5 mr-12 py-20 px-14 text-2xl leading-relaxed font-handwriting text-center"
     >
         <p>
             „Die spontane Bewegung in uns allen zielt auf Kontakt. Gleich wie
@@ -17,7 +17,7 @@
         <p class="text-2xl mt-3">Dr. Laurence Heller, Begründer von NARM</p>
     </div>
     <div class=" w-2/3 flex flex-col gap-4">
-        <h2 class=" py-4 text-2xl italic">Herzlich Willkommen …</h2>
+        <h2 class=" py-4 text-2xl font-handwriting italic">Herzlich Willkommen …</h2>
         <p>
             … manchmal geschehen Dinge in unserem Leben, die uns völlig aus
             unserem inneren Gleichgewicht bringen und die sich auf alle Ebenen
