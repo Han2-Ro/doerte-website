@@ -46,46 +46,45 @@
             zu öffnen und das in ihr liegende Potential zum Blühen zu bringen.
         </p>
         <p class="mt-3">
-            Gerne begleite ich sie therapeutisch in einer eingestimmten,
-            urteilsfreien und respektvollen Art und Weise, <br /> wenn sie….
+            Gerne begleite ich sie therapeutisch<br /> wenn sie….
         </p>
         <ul class="mt-5 leading-10">
-            <p>
+            <li>
                 …mehr Verständnis über die Entstehungsweise Ihrer Symptome und Ihres Leidens entwickeln möchten
-            </p>
-            <p>
+            </li>
+            <li>
                 …lernen möchten, wie Sie sich regulieren und in eine bessere innere Balance bringen können
-            </p>
-            <p>
+            </li>
+            <li>
                 …Unterstützung in Krisen oder bei Trauerprozessen wünschen
-            </p>
-            <p>
+            </li>
+            <li>
                 …Ihre  Ängste besser regulieren können möchten
-            </p>
-            <p>
+            </li>
+            <li>
                 …erforschen wollen, wie Sie einen besseren Zugang zu ihrer Körperwahrnehmung bekommen
-            </p>
-            <p>
+            </li>
+            <li>
                 …Sehnsucht nach tieferen, authentischeren Beziehungen haben
-            </p>
-            <p>
+            </li>
+            <li>
                 …erfahren möchten, wie man sich in stressigen Situationen stabilisieren und erden kann
-            </p>
-            <p>
+            </li>
+            <li>
                 …wieder mehr in ihre Energie kommen möchten
-            </p>
-            <p>
+            </li>
+            <li>
                 …Ihre Bedürfnisse wieder besser spüren und ihre  Grenzen besser kennenlernen möchten
-            </p>
-            <p>
+            </li>
+            <li>
                 …Gefühle der Erstarrung wieder mehr in den Fluss bringen wollen
-            </p>
-            <p>
+            </li>
+            <li>
                 …Sie ihren Weg zu mehr Resilienz gehen möchten
-            </p>
-            <p>
+            </li>
+            <li>
                 …wenn Sie als Angehörige(r) Unterstützung suchen
-            </p>
+            </li>
         </ul>
         <p>
             Bei Fragen oder zur Vereinbarung eines Erstgesprächs nehmen sie
