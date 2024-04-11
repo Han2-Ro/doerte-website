@@ -1,1 +1,5 @@
-<h1>Links</h1>
+<script>
+    import ComingSoon from "$lib/components/ComingSoon.svelte";
+
+</script>
+<ComingSoon />
