@@ -20,8 +20,8 @@
         <a href="/" class=" mr-10 flex gap-5 lg:gap-10 items-center">
             <img src={logo} alt="Logo" class="h-10 lg:h-20" />
             <div>
-                <p class="text-xl">Dörte Brügmann</p>
-                <p>Praxis für Körperarbeit und Traumatherapie</p>
+                <p class="text-xl font-handwriting text-logo-purple">Dörte Brügmann</p>
+                <p class="">Praxis für Körperarbeit und Traumatherapie</p>
             </div>
         </a>
         <!-- Desktop menu -->
