@@ -26,7 +26,7 @@
         </p>
         <p class="text-left">
             Dies können einzelne Ereignisse sein wie z.B. Unfälle, Stürze,
-            Übergriffe, Verlusterlebnisse oder Anpassungsschwierigkeiten an eine
+            Übergriffe, medizinische Eingriffe, Verlusterlebnisse oder Anpassungsschwierigkeiten an eine
             neue Lebenssituation, oder auch sich über einen längeren Zeitraum
             wiederholende Ereignisse wie z.B. Missbrauch, Gewalterlebnisse,
             Vernachlässigung, fehlende Einstimmungsfähigkeit früher
@@ -40,9 +40,9 @@
             Verbindung zu uns selbst, zu anderen und zur Welt.
         </p>
         <p class="text-left">
-            Ich biete Ihnen einen urteilsfreien, respektvollen und einfühlsamen
+            Ich biete Ihnen einen urteilsfreien, einfühlsamen und geschützten
             Raum, in dem es – um im Bild des obigen Spruches zu bleiben –
-            der Knospe möglich wird, sich vorsichtig ein wenig und dann weiter
+            der Knospe möglich werden kann, sich vorsichtig ein wenig und dann weiter
             zu öffnen und das in ihr liegende Potential zum Blühen zu bringen.
         </p>
         <p class="mt-8 text-lg font-handwriting">
@@ -74,13 +74,13 @@
                 …wieder mehr in ihre Energie kommen möchten
             </li>
             <li>
-                …Ihre Bedürfnissewieder besser spüren und ihre Grenzen besser kennenlernen möchten
+                …Ihre Bedürfnisse besser spüren und ihre Grenzen besser kennenlernen möchten
             </li>
             <li>
                 …Gefühle der Erstarrung wieder mehr in den Fluss bringen wollen
             </li>
             <li>
-                …Sie ihren Weg zu mehr Resilienz gehen möchten
+                …Sie Ihren Weg zu mehr Resilienz gehen möchten
             </li>
             <li>
                 …wenn Sie als Angehörige*r Unterstützung suchen
