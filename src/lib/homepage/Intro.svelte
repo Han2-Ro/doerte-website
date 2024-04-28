@@ -5,7 +5,7 @@
 <section class=" max-w-[1800px] flex flex-col lg:flex-row mt-10 mb-28 px-0 lg:px-10">
     <div
         id="quote"
-        class=" lg:w-2/5 lg:mr-12 px-4 py-8 lg:py-20 lg:px-14 text-2xl leading-relaxed font-handwriting font-bold text-center"
+        class=" lg:w-2/5 lg:mr-12 px-4 py-8 lg:py-20 lg:px-14 text-lg lg:text-2xl leading-relaxed font-handwriting font-bold text-center"
     >
         <p>
             „Die spontane Bewegung in uns allen zielt auf Kontakt. Gleich wie
@@ -14,7 +14,7 @@
             Pflanze sich spontan auf die Sonne zubewegt – in jedem von uns auf
             der tiefsten Ebene einen Impuls Richtung Verbundenheit.“
         </p>
-        <p class="text-2xl mt-3">Dr. Laurence Heller, Begründer von NARM</p>
+        <p class="text-lg lg:text-2xl mt-5">Dr. Laurence Heller, Begründer von NARM</p>
     </div>
     <div class="lg:w-2/3 mt-14 lg:mt-0 flex flex-col px-4 lg:px-0 gap-4">
         <h2 class="text-2xl font-handwriting italic">Herzlich Willkommen …</h2>
