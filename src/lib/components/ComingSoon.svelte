@@ -1,12 +1,10 @@
 <script lang="ts">
-    import { onMount } from 'svelte';
-
-    onMount(() => {
-        document.title = 'Coming Soon';
-    });
-
     export let title: string;
 </script>
+
+<svelte:head>
+    <title>Coming Soon</title>
+</svelte:head>
 
 <section>
     <div class="container mx-auto px-4 py-12">
