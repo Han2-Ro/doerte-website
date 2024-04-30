@@ -23,14 +23,13 @@ jobs:
         run: pnpm install
       - name: Build
         run: pnpm build
-      - name: deploy file
+      - name: deploy files
         uses: wlixcc/SFTP-Deploy-Action@v1.2.4
         with:
-            username: 'praxisev'
+            username: 'praxisev_0'
             server: 'www566.your-server.de'
-            ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }} 
+            password: ${{ secrets.SFTP_PASSWORD }}
             local_path: './build/*'
             remote_path: '/public_html/preview/'
             sftpArgs: '-o ConnectTimeout=5'
-            delete_remote_files: true
 
