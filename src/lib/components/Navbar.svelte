@@ -16,19 +16,19 @@
 </script>
 
 <header class=" sticky top-0 z-20 bg-white w-full">
-    <nav class=" py-2 px-5 lg:py-4 lg:px-10 flex items-center justify-between">
-        <a href="/" class=" mr-10 flex gap-5 lg:gap-10 items-center">
+    <nav class=" py-1 px-md flex items-center justify-between">
+        <a href="/" class=" mr-10 flex gap-sm items-center">
             <img src={logo} alt="Logo" class="h-10 lg:h-20" />
             <div>
                 <p class="text-xl font-handwriting text-logo-purple">Dörte Brügmann</p>
-                <p class="text-sm lg:text-base">Praxis für Körperarbeit und Traumatherapie</p>
+                <p class="text-sm">Praxis für Körperarbeit und Traumatherapie</p>
             </div>
         </a>
         <!-- Desktop menu -->
-        <ul class="hidden lg:flex gap-8">
+        <ul class="hidden lg:flex gap-md">
             {#each pages as page}
                 <li>
-                    <a href={page.url} class=" text-lg">{page.name}</a>
+                    <a href={page.url} class=" ">{page.name}</a>
                 </li>
             {/each}
         </ul>
