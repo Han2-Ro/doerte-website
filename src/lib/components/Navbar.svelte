@@ -21,7 +21,7 @@
             <img src={logo} alt="Logo" class="h-10 lg:h-20" />
             <div>
                 <p class="text-xl font-handwriting text-logo-purple">Dörte Brügmann</p>
-                <p class="">Praxis für Körperarbeit und Traumatherapie</p>
+                <p class="text-sm lg:text-base">Praxis für Körperarbeit und Traumatherapie</p>
             </div>
         </a>
         <!-- Desktop menu -->

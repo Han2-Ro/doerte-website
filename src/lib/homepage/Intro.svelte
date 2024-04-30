@@ -2,7 +2,7 @@
     import daisies from "$lib/assets/daisies.webp";
 </script>
 
-<section class=" max-w-[1800px] flex flex-col lg:flex-row mt-10 mb-28 px-0 lg:px-10">
+<section class=" max-w-[1800px] flex flex-col lg:flex-row mt-xl mb-2xl px-0 lg:px-10">
     <div
         id="quote"
         class=" lg:w-2/5 lg:mr-12 px-4 py-8 lg:py-20 lg:px-14 text-lg lg:text-2xl leading-relaxed font-handwriting font-bold text-center"
@@ -16,7 +16,7 @@
         </p>
         <p class="text-lg lg:text-2xl mt-5">Dr. Laurence Heller, Begründer von NARM</p>
     </div>
-    <div class="lg:w-2/3 mt-14 lg:mt-0 flex flex-col px-xs lg:px-0 gap-4">
+    <div class="lg:w-2/3 mt-xl lg:mt-0 flex flex-col px-xs lg:px-0 gap-sm">
         <h2 class="text-2xl font-handwriting italic">Herzlich Willkommen …</h2>
         <p class="text-left">
             … manchmal geschehen Dinge in unserem Leben, die uns völlig aus
@@ -45,10 +45,10 @@
             der Knospe möglich werden kann, sich vorsichtig ein wenig und dann weiter
             zu öffnen und das in ihr liegende Potential zum Blühen zu bringen.
         </p>
-        <p class="mt-8 text-lg font-handwriting">
+        <p class="mt-8 text-xl font-handwriting">
             Gerne begleite ich Sie therapeutisch,<br /> wenn Sie…
         </p>
-        <ul class="flex flex-col gap-2 text-left">
+        <ul class="flex flex-col gap-sm text-left">
             <li>
                 … mehr Verständnis über die Entstehungsweise Ihrer Symptome und Ihres Leidens entwickeln möchten
             </li>

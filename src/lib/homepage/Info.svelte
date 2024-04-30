@@ -1,7 +1,7 @@
 <script>
 </script>
 
-<section class=" mt-2xl px-xs flex flex-col-reverse md:flex-row justify-center">
+<section class=" pt-xl px-xs flex flex-col-reverse md:flex-row justify-center">
     <div class="flex flex-col justify-evenly items-center text-center">
         <h2 class=" font-bold text-2xl lg:text-3xl text-center w-full font-handwriting text-logo-purple">Dörte Brügmann</h2>
         <p class="text-md lg:text-xl text-center w-full">Heilpraktikerin für Psychotherapie • Erlangen</p>
