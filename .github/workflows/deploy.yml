@@ -30,6 +30,6 @@ jobs:
             server: 'www566.your-server.de'
             password: ${{ secrets.SFTP_PASSWORD }}
             local_path: './build/*'
-            remote_path: '/public_html/preview/'
+            remote_path: '/'
             sftpArgs: '-o ConnectTimeout=5'
 
