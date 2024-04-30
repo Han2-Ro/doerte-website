@@ -5,7 +5,7 @@
 </script>
 
 <svelte:head>
-    <tite>Dörte Brügmann</title>
+    <title>Dörte Brügmann</title>
     <meta name="description" content="Somatic Experiencing in Erlangen, Traumatherapie, Heilpraktikerin für Psychotherapie">
     <meta name="author" content="Dörte Brügmann, Hannes Rother">
 </svelte:head>
