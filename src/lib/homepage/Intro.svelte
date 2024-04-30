@@ -2,10 +2,10 @@
     import daisies from "$lib/assets/daisies.webp";
 </script>
 
-<section class=" max-w-[1800px] flex flex-col lg:flex-row mt-10 mb-28 px-0 lg:px-10">
+<section class=" max-w-[1800px] flex flex-col lg:flex-row mt-xl mb-2xl px-0 lg:px-10">
     <div
         id="quote"
-        class=" lg:w-2/5 lg:mr-12 px-4 py-8 lg:py-20 lg:px-14 text-2xl leading-relaxed font-handwriting font-bold text-center"
+        class=" lg:w-2/5 lg:mr-lg px-md py-md text-lg leading-relaxed font-handwriting font-bold text-center"
     >
         <p>
             „Die spontane Bewegung in uns allen zielt auf Kontakt. Gleich wie
@@ -14,9 +14,9 @@
             Pflanze sich spontan auf die Sonne zubewegt – in jedem von uns auf
             der tiefsten Ebene einen Impuls Richtung Verbundenheit.“
         </p>
-        <p class="text-2xl mt-3">Dr. Laurence Heller, Begründer von NARM</p>
+        <p class="text-lg mt-5">Dr. Laurence Heller, Begründer von NARM</p>
     </div>
-    <div class="lg:w-2/3 mt-14 lg:mt-0 flex flex-col px-4 lg:px-0 gap-4">
+    <div class="lg:w-3/5 mt-xl lg:mt-0 flex flex-col px-sm lg:px-0 gap-sm">
         <h2 class="text-2xl font-handwriting italic">Herzlich Willkommen …</h2>
         <p class="text-left">
             … manchmal geschehen Dinge in unserem Leben, die uns völlig aus
@@ -45,45 +45,45 @@
             der Knospe möglich werden kann, sich vorsichtig ein wenig und dann weiter
             zu öffnen und das in ihr liegende Potential zum Blühen zu bringen.
         </p>
-        <p class="mt-8 text-lg font-handwriting">
-            Gerne begleite ich Sie therapeutisch,<br /> wenn Sie….
+        <p class="mt-8 text-xl font-handwriting">
+            Gerne begleite ich Sie therapeutisch,<br /> wenn Sie…
         </p>
-        <ul class="flex flex-col gap-2 text-left">
+        <ul class="flex flex-col gap-sm text-left">
             <li>
-                …mehr Verständnis über die Entstehungsweise Ihrer Symptome und Ihres Leidens entwickeln möchten
+                … mehr Verständnis über die Entstehungsweise Ihrer Symptome und Ihres Leidens entwickeln möchten
             </li>
             <li>
-                …lernen möchten, wie Sie sich regulieren und in eine bessere innere Balance bringen können
+                … lernen möchten, wie Sie sich regulieren und in eine bessere innere Balance bringen können
             </li>
             <li>
-                …Unterstützung in Krisen oder bei Trauerprozessen wünschen
+                … Unterstützung in Krisen oder bei Trauerprozessen wünschen
             </li>
             <li>
-                …Ihre  Ängste besser regulieren können möchten
+                … Ihre  Ängste besser regulieren können möchten
             </li>
             <li>
-                …erforschen wollen, wie Sie einen besseren Zugang zu ihrer Körperwahrnehmung bekommen
+                … erforschen wollen, wie Sie einen besseren Zugang zu ihrer Körperwahrnehmung bekommen
             </li>
             <li>
-                …Sehnsucht nach tieferen, authentischeren Beziehungen haben
+                … Sehnsucht nach tieferen, authentischeren Beziehungen haben
             </li>
             <li>
-                …erfahren möchten, wie man sich in stressigen Situationen stabilisieren und erden kann
+                … erfahren möchten, wie man sich in stressigen Situationen stabilisieren und erden kann
             </li>
             <li>
-                …wieder mehr in ihre Energie kommen möchten
+                … wieder mehr in ihre Energie kommen möchten
             </li>
             <li>
-                …Ihre Bedürfnisse besser spüren und ihre Grenzen besser kennenlernen möchten
+                … Ihre Bedürfnisse besser spüren und ihre Grenzen besser kennenlernen möchten
             </li>
             <li>
-                …Gefühle der Erstarrung wieder mehr in den Fluss bringen wollen
+                … Gefühle der Erstarrung wieder mehr in den Fluss bringen wollen
             </li>
             <li>
-                …Sie Ihren Weg zu mehr Resilienz gehen möchten
+                … Sie Ihren Weg zu mehr Resilienz gehen möchten
             </li>
             <li>
-                …wenn Sie als Angehörige*r Unterstützung suchen
+                … wenn Sie als Angehörige*r Unterstützung suchen
             </li>
         </ul>
         <p class="mt-8">
