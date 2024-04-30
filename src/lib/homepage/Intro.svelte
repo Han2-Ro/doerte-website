@@ -5,7 +5,7 @@
 <section class=" max-w-[1800px] flex flex-col lg:flex-row mt-xl mb-2xl px-0 lg:px-10">
     <div
         id="quote"
-        class=" lg:w-2/5 lg:mr-lg px-md py-md text-lg leading-relaxed font-handwriting font-bold text-center"
+        class=" lg:w-2/5 lg:mr-lg px-md py-md text-xl leading-relaxed font-handwriting font-bold text-center"
     >
         <p>
             „Die spontane Bewegung in uns allen zielt auf Kontakt. Gleich wie
