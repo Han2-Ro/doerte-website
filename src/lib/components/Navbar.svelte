@@ -78,10 +78,9 @@
                 </button>
                 <ul class="">
                     {#each pages as page}
-                        <li>
+                        <li class="text-2xl mt-sm">
                             <a
                                 href={page.url}
-                                class=" text-2xl p-5"
                                 on:click={closeMenu}
                                 >{page.name}
                             </a>
