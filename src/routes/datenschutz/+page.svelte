@@ -110,13 +110,13 @@ noreferrer">https://www.hetzner.com/de/rechtliches/datenschutz</a
         Website ist:
     </p>
     <p>
-        Beispielfirma<br />
-        Musterweg 10<br />
-        90210 Musterstadt
+        Dörte Brügmann<br />
+        Drausnickstr. 8,<br />
+        91052 Erlangen
     </p>
     <p>
-        Telefon: +49 (0) 123 44 55 66<br />
-        E-Mail: info@beispielfirma.de
+        Telefon: 01515 - 9178819<br />
+        E-Mail: kontakt@praxis-bruegmann.de
     </p>
     <p>
         Verantwortliche Stelle ist die nat&uuml;rliche oder juristische Person,

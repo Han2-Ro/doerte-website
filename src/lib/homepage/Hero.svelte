@@ -4,7 +4,7 @@
     let show_source = false;
 </script>
 
-<section class="flex items-center flex-col lg:flex-row-reverse w-full h-[25rem] p-sm lg:p-lg mb-20 relative">
+<section class="flex items-center flex-col lg:flex-row-reverse w-full h-[25rem] px-sm pt-lg lg:p-lg mb-20 relative">
     <img
         src={Poppies}
         alt="orangefarbene Mohnblumen"
