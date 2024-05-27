@@ -21,7 +21,7 @@
             <img src={logo} alt="Logo" class="h-10 lg:h-20" />
             <div>
                 <p class="text-xl font-handwriting text-logo-purple">Dörte Brügmann</p>
-                <p class="text-sm">Praxis für Körperarbeit und Traumatherapie</p>
+                <p class="text-sm text-logo-purple">Praxis für Körperarbeit und Traumatherapie</p>
             </div>
         </a>
         <!-- Desktop menu -->
@@ -78,10 +78,9 @@
                 </button>
                 <ul class="">
                     {#each pages as page}
-                        <li>
+                        <li class="text-2xl mt-sm">
                             <a
                                 href={page.url}
-                                class=" text-2xl p-5"
                                 on:click={closeMenu}
                                 >{page.name}
                             </a>

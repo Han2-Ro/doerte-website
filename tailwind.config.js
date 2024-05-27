@@ -26,5 +26,7 @@ module.exports = {
       handwriting: ["Kalam", "serif"],
     },
   },
-  plugins: [],
+  plugins: [
+    require('@tailwindcss/typography'),
+  ],
 };
