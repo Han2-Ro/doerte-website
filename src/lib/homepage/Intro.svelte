@@ -17,7 +17,7 @@
         <p class="text-lg mt-5">Dr. Laurence Heller, Begründer von NARM</p>
     </div>
     <div class="lg:w-3/5 mt-xl lg:mt-0 flex flex-col px-sm lg:px-0 gap-sm">
-        <h2 class="text-2xl font-handwriting italic">Herzlich Willkommen …</h2>
+        <h2 class="text-2xl font-handwriting italic text-logo-purple">Herzlich Willkommen …</h2>
         <p class="text-left">
             … manchmal geschehen Dinge in unserem Leben, die uns völlig aus
             unserem inneren Gleichgewicht bringen und die sich auf alle Ebenen
@@ -45,9 +45,9 @@
             der Knospe möglich werden kann, sich vorsichtig ein wenig und dann weiter
             zu öffnen und das in ihr liegende Potential zum Blühen zu bringen.
         </p>
-        <p class="mt-8 text-xl font-handwriting">
+        <h3 class="mt-8 text-xl font-handwriting text-logo-purple">
             Gerne begleite ich Sie therapeutisch,<br /> wenn Sie…
-        </p>
+        </h3>
         <ul class="flex flex-col gap-sm text-left">
             <li>
                 … mehr Verständnis über die Entstehungsweise Ihrer Symptome und Ihres Leidens entwickeln möchten
@@ -71,10 +71,10 @@
                 … erfahren möchten, wie man sich in stressigen Situationen stabilisieren und erden kann
             </li>
             <li>
-                … wieder mehr in ihre Energie kommen möchten
+                … wieder mehr in Ihre Energie kommen möchten
             </li>
             <li>
-                … Ihre Bedürfnisse besser spüren und ihre Grenzen besser kennenlernen möchten
+                … Ihre Bedürfnisse besser spüren und Ihre Grenzen besser kennenlernen möchten
             </li>
             <li>
                 ... mehr Vertrauen in Ihre eigenen Fähigkeiten zurückgewinnen oder entwickeln möchten

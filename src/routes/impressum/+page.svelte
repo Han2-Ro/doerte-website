@@ -122,4 +122,9 @@
         entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden
         wir derartige Inhalte umgehend entfernen.
     </p>
+
+    <h2>Bildnachweis</h2>
+    <p>
+        PixaBay und privat Dörte Brügmann
+    </p>
 </article>
