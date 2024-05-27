@@ -1,7 +1,5 @@
 <script>
     import Poppies from "$lib/assets/poppies.webp";
-
-    let show_source = false;
 </script>
 
 <section class="flex items-center flex-col lg:flex-row-reverse w-full h-[25rem] px-sm pt-lg lg:p-lg mb-20 relative">
