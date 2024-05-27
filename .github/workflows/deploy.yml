@@ -31,4 +31,5 @@ jobs:
             password: ${{ secrets.SFTP_PASSWORD }}
             local_path: './build/*'
             remote_path: '/'
+            ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY}}
 
