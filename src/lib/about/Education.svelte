@@ -1,4 +1,4 @@
-<section class="flex flex-col lg:flex-row">
+<section class="max-w-[80rem] mx-auto flex flex-col lg:flex-row">
     <img src="https://loremflickr.com/600/800/river" alt="">
     <div>
         <h2>Ausbildungen / Weiterbildungen:</h2>
