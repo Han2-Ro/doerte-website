@@ -2,7 +2,7 @@
     import daisies from "$lib/assets/daisies.webp";
 </script>
 
-<section class=" max-w-[1800px] flex flex-col lg:flex-row mt-xl mb-2xl px-0 lg:px-10">
+<section class=" mx-auto max-w-[80rem] flex flex-col lg:flex-row mt-xl mb-2xl px-0 lg:px-10">
     <div
         id="quote"
         class=" lg:w-2/5 lg:mr-lg px-md py-md lg:px-xl lg:py-2xl text-xl leading-relaxed font-handwriting font-bold text-center"
