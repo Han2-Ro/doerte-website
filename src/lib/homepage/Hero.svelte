@@ -4,7 +4,7 @@
 
 <section class="w-full h-[25rem] mb-20">
     <div
-        class=" max-w-[80rem] mx-auto flex items-center flex-col lg:flex-row-reverse px-sm pt-lg lg:p-lg relative"
+        class=" max-w-[80rem] h-full mx-auto flex items-center flex-col lg:flex-row-reverse p-lg relative"
     >
         <img
             src={Poppies}
@@ -19,7 +19,7 @@
                 Knospe zu bleiben, schmerzhafter wurde, als das Risiko, zu
                 blühen.“
             </p>
-            <p class="text-xl italic text-center">- Anaïs Nin</p>
+            <p class=" text-base lg:text-xl italic text-center">- Anaïs Nin</p>
         </div>
     </div>
 </section>
