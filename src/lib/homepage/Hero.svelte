@@ -1,7 +1,5 @@
 <script>
     import Poppies from "$lib/assets/poppies.webp";
-
-    let show_source = false;
 </script>
 
 <section class="w-full h-[25rem] mb-20">
@@ -21,7 +19,7 @@
                 Knospe zu bleiben, schmerzhafter wurde, als das Risiko, zu
                 blühen.“
             </p>
-            <p class="text-xl italic text-center">- Anaïs Nin</p>
+            <p class=" text-base lg:text-xl italic text-center">- Anaïs Nin</p>
         </div>
     </div>
 </section>
