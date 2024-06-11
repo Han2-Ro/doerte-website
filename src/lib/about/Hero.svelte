@@ -7,7 +7,7 @@
                 „Du selbst zu sein in einer Welt, die dich ständig anders haben
                 will, ist die größte Errungenschaft.“
             </p>
-            <p class="text-xl italic text-center">- Ralph Waldo Emerson</p>
+            <p class="text-base lg:text-xl italic text-center">- Ralph Waldo Emerson</p>
         </div>
     </div>
 </section>
