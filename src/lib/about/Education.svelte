@@ -1,8 +1,7 @@
 <section class="max-w-[80rem] mx-auto flex flex-col lg:flex-row">
     <img src="https://loremflickr.com/600/800/river" alt="">
     <div>
-        <h2>Ausbildungen / Weiterbildungen:</h2>
-
+        <h2 class=" text-xl mb-sm">Ausbildungen / Weiterbildungen:</h2>
         <p>seit Nov. 1989: Physiotherapeutin</p>
         <p>seit Feb. 2022: Heilpraktikerin für Psychotherapie</p>
         <p>
@@ -27,8 +26,7 @@
             02/2024-04/2024: PITT: Psychodynamisch Imaginative Traumatherapie
             (Prof. Luise Reddemann, THZN, Nürnberg)
         </p>
-
-        <h3>SE® Seminare:</h3>
+        <h3 class="text-xl mt-lg mb-sm">SE® Seminare:</h3>
 
         <p>
             08/2022: „Vom Muster zur inneren Klarheit – Neuronal sich
@@ -44,7 +42,7 @@
             10/2023: „Der Rote Faden- Behandlungsplanung in der Prozessarbeit“
             (Dr. Szilvia Meggyesy, online)
         </p>
-        <h3>Weitere Online Präsenzseminare:</h3>
+        <h3 class="text-xl mt-lg mb-sm">Weitere Seminare:</h3>
         <p>
             04/2020: “The Relational Brain - The Neurobiology of Relational Life
             Therapy and How it Works to Rewire your Brain” (Juliane Taylor
@@ -66,6 +64,9 @@
         <p>12/2023: “Addiction, Trauma and the Brain” (Janina Fisher)</p>
         <p>
             02-03/2024: “Working with Self-Destructive Behaviors” (Lisa Ferentz)
+        </p>
+        <p>
+            06/2024: "Trauma und Sexualität" (Dr. med. Melanie Büttner, THZN)
         </p>
     </div>
 </section>
