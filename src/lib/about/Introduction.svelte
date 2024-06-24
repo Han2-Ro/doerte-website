@@ -6,7 +6,7 @@
     <img class="hidden lg:block" src="https://loremflickr.com/600/800/plant" alt="">
     <div class="px-sm">
         <img class=" mr-sm float-left w-[10rem] lg:w-auto" src={Portrait} alt="Ein Portrait von Dörte Brügmann">
-        <h2 class="text-2xl font-handwriting italic text-logo-purple">
+        <h2 class=" pb-xs text-2xl font-handwriting italic text-logo-purple">
             Hallo, schön, dass Sie hier sind
         </h2>
         <p>
