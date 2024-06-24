@@ -1,6 +1,6 @@
-<section class="max-w-[80rem] mx-auto flex flex-col lg:flex-row">
-    <img src="https://loremflickr.com/600/800/river" alt="">
-    <div>
+<section class=" py-xl max-w-[80rem] mx-auto flex flex-col lg:flex-row">
+    <img class="hidden lg:block" src="https://loremflickr.com/600/800/river" alt="">
+    <div class="px-sm">
         <h2 class=" text-xl mb-sm">Ausbildungen / Weiterbildungen:</h2>
         <p>seit Nov. 1989: Physiotherapeutin</p>
         <p>seit Feb. 2022: Heilpraktikerin für Psychotherapie</p>

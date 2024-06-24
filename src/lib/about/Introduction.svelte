@@ -2,10 +2,10 @@
     import Portrait from "$lib/assets/portrait.webp";
 </script>
 
-<section class=" max-w-[80rem] mx-auto flex flex-col lg:flex-row-reverse pt-xl">
-    <img class="" src="https://loremflickr.com/600/800/plant" alt="">
-    <div>
-        <img class=" float-left w-[10rem] lg:w-auto" src={Portrait} alt="Ein Portrait von Dörte Brügmann">
+<section class=" max-w-[80rem] mx-auto flex flex-col lg:flex-row-reverse py-xl">
+    <img class="hidden lg:block" src="https://loremflickr.com/600/800/plant" alt="">
+    <div class="px-sm">
+        <img class=" mr-sm float-left w-[10rem] lg:w-auto" src={Portrait} alt="Ein Portrait von Dörte Brügmann">
         <h2 class="text-2xl font-handwriting italic text-logo-purple">
             Hallo, schön, dass Sie hier sind
         </h2>
