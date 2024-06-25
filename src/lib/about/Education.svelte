@@ -8,31 +8,38 @@
         <h2 class="text-2xl pb-xs font-handwriting italic text-logo-purple">
             Ausbildungen / Weiterbildungen:
         </h2>
-        <p>seit Nov. 1989: Physiotherapeutin</p>
-        <p>seit Feb. 2022: Heilpraktikerin für Psychotherapie</p>
-        <p>
-            2015-2017: „The Art of Belonging and Becoming – Transparente
-            Kommunikation nach Thomas Hübl” (Anjet Sekkat, Axel Perincherie,
-            Freiburg)
-        </p>
-        <p>02-03/2017: „From Stress to Strengh“ (Thomas Hübl)</p>
-        <p>
-            10/2017-04/2018: “Meditate and Mediate” (Thomas Hübl und William
-            Ury, online)
-        </p>
-        <p>
-            2018-2021: Somatic Experiencing(SE)® Ausbildung: körperorientierte
-            Traumaarbeit nach Dr. Peter Levine (Itta Wiedenmann - INT München)
-        </p>
-        <p>
-            11/2020-02/2021: „The Principles of Collective Trauma Healing”
-            (Thomas Hübl, online)
-        </p>
-        <p>
-            02/2024-04/2024: PITT: Psychodynamisch Imaginative Traumatherapie
-            (Prof. Luise Reddemann, THZN, Nürnberg)
-        </p>
-        <h3 class="text-lg font-bold pt-md pb-xs">SE® Seminare:</h3>
+        <ul>
+            <li>seit Nov. 1989: <span class=" ">Physiotherapeutin</span></li>
+            <li>
+                seit Feb. 2022: <span class=" ">
+                    Heilpraktikerin für Psychotherapie</span
+                >
+            </li>
+            <li>
+                2015-2017: „The Art of Belonging and Becoming – Transparente
+                Kommunikation nach Thomas Hübl” (Anjet Sekkat, Axel Perincherie,
+                Freiburg)
+            </li>
+            <li>02-03/2017: „From Stress to Strengh“ (Thomas Hübl)</li>
+            <li>
+                10/2017-04/2018: “Meditate and Mediate” (Thomas Hübl und William
+                Ury, online)
+            </li>
+            <li>
+                2018-2021: Somatic Experiencing(SE)® Ausbildung:
+                körperorientierte Traumaarbeit nach Dr. Peter Levine (Itta
+                Wiedenmann - INT München)
+            </li>
+            <li>
+                11/2020-02/2021: „The Principles of Collective Trauma Healing”
+                (Thomas Hübl, online)
+            </li>
+            <li>
+                02/2024-04/2024: PITT: Psychodynamisch Imaginative
+                Traumatherapie (Prof. Luise Reddemann, THZN, Nürnberg)
+            </li>
+        </ul>
+        <h3 class="text-lg font-bold pt-md pb-xs">Somatic Experiencing® Seminare:</h3>
 
         <p>
             08/2022: „Vom Muster zur inneren Klarheit – Neuronal sich

@@ -10,5 +10,5 @@
 </svelte:head>
 <Hero />
 <Introduction />
-<img class="max-h-[15rem] mx-auto" src={Logo} alt="Logo" />
+<img class=" px-sm max-h-[15rem] mx-auto" src={Logo} alt="Logo" />
 <Education />
