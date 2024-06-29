@@ -1,6 +1,7 @@
 <script>
     import { getAllPages } from "$lib/data/pages";
     import logo from "$lib/assets/logo.png";
+    import { page } from "$app/stores";
 
     const pages = getAllPages();
 
@@ -20,15 +21,24 @@
         <a href="/" class=" mr-10 flex gap-sm items-center">
             <img src={logo} alt="Logo" class="h-10 lg:h-20" />
             <div>
-                <p class="text-xl font-handwriting text-logo-purple">Dörte Brügmann</p>
-                <p class="text-sm text-logo-purple">Praxis für Körperarbeit und Traumatherapie</p>
+                <p class="text-xl font-handwriting text-logo-purple">
+                    Dörte Brügmann
+                </p>
+                <p class="text-sm text-logo-purple">
+                    Praxis für Körperarbeit und Traumatherapie
+                </p>
             </div>
         </a>
         <!-- Desktop menu -->
         <ul class="hidden lg:flex gap-md">
-            {#each pages as page}
+            {#each pages as p}
                 <li>
-                    <a href={page.url} class=" ">{page.name}</a>
+                    <a
+                        href={p.url}
+                        class={$page.url.toString().endsWith(p.url)
+                            ? "font-bold"
+                            : ""}>{p.name}</a
+                    >
                 </li>
             {/each}
         </ul>
@@ -79,9 +89,7 @@
                 <ul class="">
                     {#each pages as page}
                         <li class="text-2xl mt-sm">
-                            <a
-                                href={page.url}
-                                on:click={closeMenu}
+                            <a href={page.url} on:click={closeMenu}
                                 >{page.name}
                             </a>
                         </li>
