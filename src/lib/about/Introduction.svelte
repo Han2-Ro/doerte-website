@@ -3,15 +3,23 @@
 </script>
 
 <section class=" max-w-[80rem] mx-auto flex flex-col lg:flex-row-reverse py-xl">
-    <div id="quote1" class="hidden lg:block">
-        <p>
-            Stress is always an invitation, either to integrate unconscious
-            material that creates difficulties in our life, or to develop new
-            capacities. Stress is an opportunity to change, develop and grow.
-        </p>
-        <p>Thomas Hübl</p>
+    <div
+        id="quote"
+        class="lg:w-2/5 lg:flex flex-col-reverse hidden p-10 pb-20"
+    >
+        <div
+            class=" p-5 rounded-3xl bg-[#292d38a2] text-white font-handwriting text-center"
+        >
+            <p class=" text-xl leading-relaxed pb-5">
+                Stress is always an invitation, either to integrate unconscious
+                material that creates difficulties in our life, or to develop
+                new capacities. Stress is an opportunity to change, develop and
+                grow.
+            </p>
+            <p class="text-lg">- Thomas Hübl</p>
+        </div>
     </div>
-    <div class="px-sm">
+    <div class="px-sm lg:w-3/5">
         <img
             class=" mr-sm float-left w-[10rem] lg:w-auto"
             src={Portrait}
@@ -74,7 +82,7 @@
 </section>
 
 <style>
-    #quote1 {
+    #quote {
         background-image: url($lib/assets/blowball.webp);
         background-size: cover;
         background-position: right top;

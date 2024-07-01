@@ -1,10 +1,17 @@
 <section class=" py-xl max-w-[80rem] mx-auto flex flex-col lg:flex-row">
-    <img
-        class="hidden lg:block"
-        src="https://loremflickr.com/600/800/river"
-        alt=""
-    />
-    <div class="px-sm">
+    <div id="quote" class="lg:w-2/5 lg:flex flex-col hidden p-10 py-20">
+        <div
+            class=" p-5 rounded-3xl bg-[#1f2247a2] text-white font-handwriting text-center"
+        >
+            <p class=" text-xl leading-relaxed pb-5">
+                The deepest listening is presence, is consciousness itself. It
+                is space, an open heart, compassion and a deep receiving of
+                someone.
+            </p>
+            <p class="text-lg">- Thomas Hübl</p>
+        </div>
+    </div>
+    <div class="lg:w-3/5 px-sm">
         <h2 class="text-2xl pb-xs font-handwriting italic text-logo-purple">
             Ausbildungen / Weiterbildungen:
         </h2>
@@ -39,7 +46,9 @@
                 Traumatherapie (Prof. Luise Reddemann, THZN, Nürnberg)
             </li>
         </ul>
-        <h3 class="text-lg font-bold pt-md pb-xs">Somatic Experiencing® Seminare:</h3>
+        <h3 class="text-lg font-bold pt-md pb-xs">
+            Somatic Experiencing® Seminare:
+        </h3>
 
         <p>
             08/2022: „Vom Muster zur inneren Klarheit – Neuronal sich
@@ -63,7 +72,9 @@
         </p>
         <p>
             04-05/2021: “Neurobiology of Feeling Safe Level 1: Working with
-            Boundaries Inside and Out” (Julian Taylor Shore)
+            Boundaries Inside aThe deepest listening is presence, is
+            consciousness itself. It is space, an open heart, compassion and a
+            deep receiving of someone.nd Out” (Julian Taylor Shore)
         </p>
         <p>
             11/2022: “Neurobiology of Feeling Safe Level 2: Safety Within and
@@ -81,3 +92,11 @@
         <p>06/2024: "Trauma und Sexualität" (Dr. med. Melanie Büttner, THZN)</p>
     </div>
 </section>
+
+<style>
+    #quote {
+        background-image: url($lib/assets/crystal-ball.webp);
+        background-size: cover;
+        background-position: 80%;
+    }
+</style>
