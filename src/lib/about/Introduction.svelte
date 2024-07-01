@@ -3,11 +3,14 @@
 </script>
 
 <section class=" max-w-[80rem] mx-auto flex flex-col lg:flex-row-reverse py-xl">
-    <img
-        class="hidden lg:block"
-        src="https://loremflickr.com/600/800/plant"
-        alt=""
-    />
+    <div id="quote1" class="hidden lg:block">
+        <p>
+            Stress is always an invitation, either to integrate unconscious
+            material that creates difficulties in our life, or to develop new
+            capacities. Stress is an opportunity to change, develop and grow.
+        </p>
+        <p>Thomas Hübl</p>
+    </div>
     <div class="px-sm">
         <img
             class=" mr-sm float-left w-[10rem] lg:w-auto"
@@ -69,3 +72,11 @@
         </p>
     </div>
 </section>
+
+<style>
+    #quote1 {
+        background-image: url($lib/assets/blowball.webp);
+        background-size: cover;
+        background-position: right top;
+    }
+</style>
