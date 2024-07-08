@@ -1,14 +1,13 @@
 <section class=" py-xl max-w-[80rem] mx-auto flex flex-col lg:flex-row">
-    <div id="quote" class="lg:w-2/5 lg:flex flex-col hidden p-10 py-20">
+    <div id="quote" class="lg:w-2/5 lg:flex flex-col hidden p-10">
         <div
             class=" p-5 rounded-3xl bg-[#1f2247a2] text-white font-handwriting text-center"
         >
-            <p class=" text-xl leading-relaxed pb-5">
-                The deepest listening is presence, is consciousness itself. It
+            <p class=" text-xl leading-relaxed">
+                "The deepest listening is presence, is consciousness itself. It
                 is space, an open heart, compassion and a deep receiving of
-                someone.
+                someone." - Thomas Hübl
             </p>
-            <p class="text-lg">- Thomas Hübl</p>
         </div>
     </div>
     <div class="lg:w-3/5 px-sm">
@@ -72,9 +71,7 @@
         </p>
         <p>
             04-05/2021: “Neurobiology of Feeling Safe Level 1: Working with
-            Boundaries Inside aThe deepest listening is presence, is
-            consciousness itself. It is space, an open heart, compassion and a
-            deep receiving of someone.nd Out” (Julian Taylor Shore)
+            Boundaries Inside and Out” (Julian Taylor Shore)
         </p>
         <p>
             11/2022: “Neurobiology of Feeling Safe Level 2: Safety Within and
@@ -93,10 +90,28 @@
     </div>
 </section>
 
+<div id="mobile-quote" class="h-96 relative lg:hidden mb-40 p-sm">
+    <div
+        class="absolute -bottom-32 p-5 inset-x-sm rounded-3xl bg-[#41307a] text-white font-handwriting text-center"
+    >
+        <p class="text-base leading-relaxed">
+            "Stress is always an invitation, either to integrate unconscious
+            material that creates difficulties in our life, or to develop new
+            capacities. Stress is an opportunity to change, develop and grow." -
+            Thomas Hübl
+        </p>
+    </div>
+</div>
+
 <style>
     #quote {
         background-image: url($lib/assets/crystal-ball.webp);
         background-size: cover;
         background-position: 80%;
+    }
+    #mobile-quote {
+        background-image: url($lib/assets/crystal-ball.webp);
+        background-size: cover;
+        background-position: center;
     }
 </style>

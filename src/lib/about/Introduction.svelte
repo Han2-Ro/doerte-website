@@ -5,18 +5,17 @@
 <section class=" max-w-[80rem] mx-auto flex flex-col lg:flex-row-reverse py-xl">
     <div
         id="quote"
-        class="lg:w-2/5 lg:flex flex-col-reverse hidden p-10 pb-20"
+        class="lg:w-2/5 lg:flex flex-col-reverse hidden p-10 py-10"
     >
         <div
             class=" p-5 rounded-3xl bg-[#292d38a2] text-white font-handwriting text-center"
         >
-            <p class=" text-xl leading-relaxed pb-5">
-                Stress is always an invitation, either to integrate unconscious
+            <p class=" text-xl leading-relaxed">
+                "Stress is always an invitation, either to integrate unconscious
                 material that creates difficulties in our life, or to develop
                 new capacities. Stress is an opportunity to change, develop and
-                grow.
+                grow." - Thomas Hübl
             </p>
-            <p class="text-lg">- Thomas Hübl</p>
         </div>
     </div>
     <div class="px-sm lg:w-3/5">
