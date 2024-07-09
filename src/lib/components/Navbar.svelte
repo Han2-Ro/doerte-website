@@ -7,7 +7,7 @@
 
     let menuOpen = false;
 
-    const openMenu = () => {
+    const toggleMenu = () => {
         menuOpen = !menuOpen;
     };
 
@@ -33,12 +33,7 @@
         <ul class="hidden lg:flex gap-md">
             {#each pages as p}
                 <li>
-                    <a
-                        href={p.url}
-                        class={$page.url.toString().endsWith(p.url)
-                            ? "font-bold"
-                            : ""}>{p.name}</a
-                    >
+                    <a href={p.url}>{p.name}</a>
                 </li>
             {/each}
         </ul>
@@ -47,7 +42,7 @@
             <button
                 type="button"
                 class="-m-2.5 inline-flex items-center justify-center rounded-md p-2.5 text-dark-green"
-                on:click={openMenu}
+                on:click={toggleMenu}
             >
                 <span class="sr-only">Open main menu</span>
                 <svg
