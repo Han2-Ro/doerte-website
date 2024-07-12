@@ -17,7 +17,7 @@
 </script>
 
 <header class=" sticky top-0 z-20 bg-white w-full">
-    <nav class=" py-1 px-md flex items-center justify-between">
+    <nav class=" max-w-[80rem] mx-auto py-1 px-md flex items-center justify-between">
         <a href="/" class=" mr-10 flex gap-sm items-center">
             <img src={logo} alt="Logo" class="h-10 lg:h-20" />
             <div>
