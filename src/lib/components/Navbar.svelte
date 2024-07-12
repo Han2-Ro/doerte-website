@@ -33,7 +33,12 @@
         <ul class="hidden lg:flex gap-md">
             {#each pages as p}
                 <li>
-                    <a href={p.url}>{p.name}</a>
+                    <a
+                        href={p.url}
+                        class={$page.url.pathname === p.url
+                            ? "font-bold"
+                            : ""}>{p.name}</a
+                    >
                 </li>
             {/each}
         </ul>
