@@ -1,5 +1,5 @@
 <script>
-    import Poppies from "$lib/assets/swan.png";
+    import Swan from "$lib/assets/swan.png";
 </script>
 
 <section class="w-full h-[25rem] mb-20">
@@ -7,8 +7,8 @@
         class=" max-w-[80rem] h-full mx-auto flex items-center flex-col lg:flex-row p-lg relative"
     >
         <img
-            src={Poppies}
-            alt="orangefarbene Mohnblumen"
+            src={Swan}
+            alt="Ein Schwan mit einem Schwanenküken auf dem Rücken"
             class=" h-[15rem] w-[20rem] lg:h-[20rem] lg:w-[25rem] object-cover"
         />
         <div
