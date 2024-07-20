@@ -1,5 +1,5 @@
 <script>
-    import Swan from "$lib/assets/swan.png";
+    import Swan from "$lib/assets/swan.webp";
 </script>
 
 <section class="w-full h-[25rem] mb-20">
@@ -9,7 +9,7 @@
         <img
             src={Swan}
             alt="Ein Schwan mit einem Schwanenküken auf dem Rücken"
-            class=" h-[15rem] w-[20rem] lg:h-[20rem] lg:w-[25rem] object-cover"
+            class=" h-[15rem] w-[20rem] lg:h-[20rem] lg:w-[25rem] object-cover rounded-[50%] border-4 border-[#c1d1ec]"
         />
         <div
             class="p-sm shadow-md shadow-black/50 lg:max-w-[50rem] rounded-3xl bg-[#afc8fd] absolute -bottom-20 lg:right-lg font-handwriting"
