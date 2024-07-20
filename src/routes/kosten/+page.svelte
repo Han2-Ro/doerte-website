@@ -1,9 +1,10 @@
 <script>
-    import ComingSoon from "$lib/components/ComingSoon.svelte";
+    import Hero from "$lib/kosten/Hero.svelte";
 </script>
 
 <svelte:head>
     <title>Kosten</title>
     <meta name="description" content="Informationen zu den Kosten">
 </svelte:head>
-<ComingSoon title="Kosten"/>
+<Hero />
+<div class="py-lg"></div>
