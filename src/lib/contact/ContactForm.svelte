@@ -1,3 +1,4 @@
+<p>Schreiben Sie mir gerne, wenn Sie Fragen haben oder ein Erstegespräch ausmachen wollen</p>
 <form class=" max-w-[80rem] mx-auto px-md py-xl flex flex-col" action="https://api.staticforms.xyz/submit" method="post">
     <input class="input-field" type="hidden" name="accessKey" value="581f061f-3033-4a65-a18a-98a3cb32d908">
     <label for="name">Name</label>
