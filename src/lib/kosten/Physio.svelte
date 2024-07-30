@@ -1,5 +1,4 @@
 <script>
-    import Portrait from "$lib/assets/portrait.webp";
 </script>
 
 <section class=" max-w-[80rem] mx-auto flex flex-col lg:flex-row-reverse py-xl">
