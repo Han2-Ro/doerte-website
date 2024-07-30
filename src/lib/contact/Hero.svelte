@@ -12,7 +12,7 @@
             class=" h-[15rem] w-[20rem] lg:h-[20rem] lg:w-[25rem] object-cover rounded-[50%] border-4 border-[#c1d1ec]"
         />
         <div
-            class="p-sm shadow-md shadow-black/50 lg:max-w-[50rem] rounded-3xl bg-[#afc8fd] absolute -bottom-20 lg:right-lg font-handwriting"
+            class="p-sm shadow-md shadow-black/50 lg:max-w-[40rem] rounded-3xl bg-[#afc8fd] absolute -bottom-20 lg:right-lg font-handwriting"
         >
             <p class="text-lg lg:text-2xl text-center">
                 “Safety is much more than the absence of threat, safety is the
