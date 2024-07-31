@@ -71,19 +71,19 @@
             <div class="flex flex-row gap-md">
                 <div>
                     <label for="name">Name</label>
-                    <input class="input-field" type="text" name="name" />
+                    <input class="input-field" type="text" name="name" required />
                 </div>
                 <div>
-                    <label for="telefon">Telefon</label>
-                    <input class="input-field" type="tel" name="telefon" />
+                    <label for="phone">Telefon</label>
+                    <input class="input-field" type="tel" name="phone" />
                 </div>
             </div>
             <label class="pt-md" for="email">E-Mail</label>
-            <input class="input-field" type="text" name="email" />
+            <input class="input-field" type="text" name="email" required />
             <label class="pt-md" for="message">Nachricht</label>
-            <textarea class="input-field" name="message"></textarea>
+            <textarea class="input-field" name="message" required></textarea>
             <li>
-                <input type="checkbox" name="checkbox" />
+                <input type="checkbox" name="checkbox" required/>
                 <label class=" text-sm" for="checkbox"
                     >Ich willige ein, dass diese Website meine übermittelten
                     Informationen speichert, sodass meine Anfrage beantwortet
