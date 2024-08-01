@@ -68,10 +68,18 @@
                 name="accessKey"
                 value="581f061f-3033-4a65-a18a-98a3cb32d908"
             />
+            <!-- <input type="hidden" name="redirectTo" value="praxis-bruegmann.de" /> -->
+            <!-- <input type="hidden" name="subject" value="Kontakt Formular" /> -->
+            <!-- <input type="hidden" name="replyTo" value="@" /> -->
             <div class="flex flex-row gap-md">
                 <div>
                     <label for="name">Name *</label>
-                    <input class="input-field" type="text" name="name" required />
+                    <input
+                        class="input-field"
+                        type="text"
+                        name="name"
+                        required
+                    />
                 </div>
                 <div>
                     <label for="phone">Telefon</label>
@@ -83,7 +91,7 @@
             <label class="pt-md" for="message">Nachricht *</label>
             <textarea class="input-field" name="message" required></textarea>
             <li>
-                <input type="checkbox" name="checkbox" required/>
+                <input type="checkbox" name="checkbox" required />
                 <label class=" text-sm" for="checkbox"
                     >* Ich willige ein, dass diese Website meine übermittelten
                     Informationen speichert, sodass meine Anfrage beantwortet
