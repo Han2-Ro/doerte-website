@@ -68,9 +68,14 @@
                 name="accessKey"
                 value="581f061f-3033-4a65-a18a-98a3cb32d908"
             />
-            <!-- <input type="hidden" name="redirectTo" value="praxis-bruegmann.de" /> -->
-            <!-- <input type="hidden" name="subject" value="Kontakt Formular" /> -->
-            <!-- <input type="hidden" name="replyTo" value="@" /> -->
+            <!-- <input
+                type="hidden"
+                name="redirectTo"
+                value="https://www.praxis-bruegmann.de"
+            /> -->
+            <input type="hidden" name="subject" value="Kontakt Formular" />
+            <input type="hidden" name="replyTo" value="@" />
+            <input type="text" name="honeypot" style="display: none;" />
             <div class="flex flex-row gap-md">
                 <div>
                     <label for="name">Name *</label>
