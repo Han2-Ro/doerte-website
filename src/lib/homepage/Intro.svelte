@@ -5,7 +5,7 @@
 <section class=" mx-auto max-w-[80rem] flex flex-col lg:flex-row mt-xl mb-2xl px-0 lg:px-10">
     <div
         id="quote"
-        class=" lg:w-2/5 lg:mr-lg px-md py-md lg:px-xl lg:py-2xl text-xl leading-relaxed font-handwriting font-bold text-center"
+        class=" lg:w-2/5 lg:mr-lg px-md py-md text-[#4a194d] lg:px-xl lg:py-2xl text-xl leading-relaxed font-handwriting font-bold text-center"
     >
         <p>
             „Die spontane Bewegung in uns allen zielt auf Kontakt. Gleich wie
@@ -46,7 +46,7 @@
             zu öffnen und das in ihr liegende Potential zum Blühen zu bringen.
         </p>
         <h3 class="mt-8 text-xl font-handwriting text-logo-purple">
-            Gerne begleite ich Sie therapeutisch,<br /> wenn Sie…
+            Gerne begleite ich Sie,<br /> wenn Sie…
         </h3>
         <ul class="flex flex-col gap-sm text-left">
             <li>
