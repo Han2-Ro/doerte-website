@@ -6,7 +6,7 @@
         <p class="mb-sm">Dörte Brügmann</p>
         <a
             class="flex gap-xs mb-sm"
-            href="https://maps.app.goo.gl/pyJ6VsstLssM5WvH9"
+            href="https://maps.app.goo.gl/yXL79K9GsJk3xzYt9"
         >
             <svg
                 xmlns="http://www.w3.org/2000/svg"
