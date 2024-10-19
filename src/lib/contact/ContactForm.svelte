@@ -58,6 +58,7 @@
             Erstegespräch ausmachen wollen
         </p>
         <form
+            id="contactForm"
             class=" px-md pt-lg flex flex-col"
             action="https://api.staticforms.xyz/submit"
             method="post"
@@ -70,7 +71,7 @@
             />
             <input type="hidden" name="replyTo" value="@" />
             <input type="text" name="honeypot" style="display: none;" />
-            <div class="flex flex-row gap-md">
+            <div class="flex flex-col lg:flex-row gap-md">
                 <div>
                     <label for="name">Name *</label>
                     <input
@@ -86,7 +87,13 @@
                 </div>
             </div>
             <label class="pt-md" for="email">E-Mail *</label>
-            <input class="input-field" type="text" name="email" required />
+            <input
+                id="email"
+                class="input-field"
+                type="email"
+                name="email"
+                required
+            />
             <label class="pt-md" for="message">Nachricht *</label>
             <textarea class="input-field" name="message" required></textarea>
             <div>
@@ -97,12 +104,12 @@
                     werden kann.</label
                 >
             </div>
-            <!-- <input
+            <!-- Change this for prod -->
+            <input
                 type="hidden"
                 name="redirectTo"
-                value="/contact/success"
-            /> -->
-            <input type="hidden" name="redirectTo" value="http://localhost:5173/contact/success/">
+                value="http://localhost:5173/contact/success/"
+            />
             <input type="hidden" name="subject" value="Kontakt Formular" />
             <input
                 class="mt-md w-28 p-xs bg-[#afc8fd] rounded-full border-2 border-slate-600"
