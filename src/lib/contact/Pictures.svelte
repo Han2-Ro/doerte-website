@@ -3,7 +3,7 @@
     import Room2 from "$lib/assets/room-2.webp";
 </script>
 
-<section class="flex flex-col lg:flex-row max-w-[80rem] mx-auto">
+<section class="flex flex-col lg:flex-row max-w-[80rem] mx-auto pb-10">
     <img class=" lg:w-1/2" src={Room1} alt="">
     <img class=" lg:w-1/2" src={Room2} alt="">
 </section>

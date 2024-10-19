@@ -5,11 +5,7 @@
 </script>
 
 <svelte:head>
-    <title>Kontakt</title>
-    <meta
-        name="description"
-        content="Kontaktinformationen von Dörte Brügmann"
-    />
+    <title>Nachricht gesendet</title>
 </svelte:head>
 <Hero />
 <Success />
