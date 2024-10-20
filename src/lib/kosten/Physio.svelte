@@ -15,15 +15,21 @@
         </div>
     </div>
     <div class="px-sm lg:w-3/5">
-        Honorar Physiotherapie Nur private Kassen, Beihilfe, Selbstzahler Eine
-        Abrechnung über die gesetzliche Krankenversicherung ist leider nicht
-        möglich. Private Kassen Beihilfe und Selbstzahler Krankengymnastik:
-        35,00 31,00 KG-Atemtherapie: 35,00 31,00 KG-ZNS/Neuro (KG Bobath Erw.):
-        53,00 49,00 Massage: 29,00 25,00 Ausfallsregelung Ich bitte darum,
-        Termine mindestens 24 Stunden im Voraus zu verschieben oder abzusagen. 
-        ​ Termine, die weniger als 24 Stunden im Voraus verschoben oder abgesagt
-        werden, stelle ich mit 50% der Kosten in Rechnung.  Termine, die nicht
-        abgesagt wurden, muss ich zu 100% in Rechnung stellen.
+        <h2 class=" pb-xs text-2xl font-handwriting italic text-logo-purple">
+            Honorar Physiotherapie
+        </h2>
+        <p>
+            Nur private Kassen, Beihilfe, Selbstzahler Eine Abrechnung über die
+            gesetzliche Krankenversicherung ist leider nicht möglich. Private
+            Kassen Beihilfe und Selbstzahler Krankengymnastik: 35,00 31,00
+            KG-Atemtherapie: 35,00 31,00 KG-ZNS/Neuro (KG Bobath Erw.): 53,00
+            49,00 Massage: 29,00 25,00 Ausfallsregelung Ich bitte darum, Termine
+            mindestens 24 Stunden im Voraus zu verschieben oder abzusagen.  ​
+            Termine, die weniger als 24 Stunden im Voraus verschoben oder
+            abgesagt werden, stelle ich mit 50% der Kosten in Rechnung. 
+            Termine, die nicht abgesagt wurden, muss ich zu 100% in Rechnung
+            stellen.
+        </p>
     </div>
 </section>
 
@@ -31,6 +37,6 @@
     #quote {
         background-image: url($lib/assets/fern-3.webp);
         background-size: cover;
-        background-position: right top;
+        background-position: center;
     }
 </style>

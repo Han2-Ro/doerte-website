@@ -10,7 +10,9 @@
         </div>
     </div>
     <div class="lg:w-3/5 px-sm">
-        <h2>Honorar Psychotherapie (nach HeilprG)</h2>
+        <h2 class=" pb-xs text-2xl font-handwriting italic text-logo-purple">
+            Honorar Psychotherapie (nach HeilprG)
+        </h2>
         <p>
             Psychotherapie (HPrG)/ Somatic Experiencing / Körperarbeit /
             Traumatherapie: Für eine Einzelsitzung berechne ich 80,00 € (60 min)
