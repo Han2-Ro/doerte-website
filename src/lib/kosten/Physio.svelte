@@ -29,7 +29,7 @@
 
 <style>
     #quote {
-        background-image: url($lib/assets/blowball.webp);
+        background-image: url($lib/assets/fern-3.webp);
         background-size: cover;
         background-position: right top;
     }
