@@ -333,7 +333,7 @@ noreferrer">https://www.hetzner.com/de/rechtliches/datenschutz</a
         technisch fehlerfreien Darstellung und der Optimierung seiner Website
         &ndash; hierzu m&uuml;ssen die Server-Log-Files erfasst werden.
     </p>
-    <h3>Kontaktformular</h3>
+    <h3 id="kontaktformular">Kontaktformular</h3>
     <p>
         Wenn Sie uns per Kontaktformular Anfragen zukommen lassen, werden Ihre
         Angaben aus dem Anfrageformular inklusive der von Ihnen dort angegebenen

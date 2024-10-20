@@ -1,7 +1,7 @@
 <script>
     import Hero from "$lib/kosten/Hero.svelte";
-    import Physio from "$lib/kosten/Physio.svelte";
     import Psycho from "$lib/kosten/Psycho.svelte";
+    import Physio from "$lib/kosten/Physio.svelte";
 </script>
 
 <svelte:head>
