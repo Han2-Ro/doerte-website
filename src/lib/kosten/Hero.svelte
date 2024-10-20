@@ -18,7 +18,7 @@
 
 <style>
     section {
-        background-image: url($lib/assets/sunflowers.webp);
+        background-image: url($lib/assets/sunflower.webp);
         background-size: cover;
         background-position: center;
     }
