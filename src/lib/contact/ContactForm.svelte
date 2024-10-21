@@ -55,7 +55,7 @@
     <div>
         <p>
             Schreiben Sie mir gerne, wenn Sie Fragen haben oder ein
-            Erstegespräch ausmachen wollen
+            Erstgespräch ausmachen wollen
         </p>
         <form
             id="contactForm"
