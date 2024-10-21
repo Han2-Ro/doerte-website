@@ -1,5 +1,5 @@
-<section class=" py-xl max-w-[80rem] mx-auto flex flex-col lg:flex-row">
-    <div id="quote" class="lg:w-2/5 lg:flex flex-col-reverse hidden p-7">
+<section class=" py-xl max-w-[80rem] mx-auto flex flex-col-reverse lg:flex-row">
+    <div id="quote" class="lg:w-2/5 flex flex-col-reverse p-7">
         <div
             class=" p-5 rounded-3xl bg-[#1f2247a2] text-white font-handwriting text-center"
         >
@@ -54,28 +54,10 @@
     </div>
 </section>
 
-<div id="mobile-quote" class="h-96 relative lg:hidden mb-40 p-sm">
-    <div
-        class="absolute -bottom-32 p-5 inset-x-sm rounded-3xl bg-[#41307a] text-white font-handwriting text-center"
-    >
-        <p class="text-base leading-relaxed">
-            "Stress is always an invitation, either to integrate unconscious
-            material that creates difficulties in our life, or to develop new
-            capacities. Stress is an opportunity to change, develop and grow." -
-            Thomas Hübl
-        </p>
-    </div>
-</div>
-
 <style>
     #quote {
         background-image: url($lib/assets/fern-2.webp);
         background-size: cover;
         background-position: 80%;
-    }
-    #mobile-quote {
-        background-image: url($lib/assets/crystal-ball.webp);
-        background-size: cover;
-        background-position: center;
     }
 </style>
