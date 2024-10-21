@@ -16,18 +16,61 @@
         </div>
     </div>
     <div class="px-sm lg:w-3/5">
-        <h2 class=" pb-xs text-2xl font-handwriting italic text-logo-purple">
+        <h1 class="pb-xs text-2xl font-handwriting italic text-logo-purple">
             Honorar Physiotherapie
-        </h2>
+        </h1>
+        <p>Nur private Kassen, Beihilfe, Selbstzahler</p>
         <p>
-            Nur private Kassen, Beihilfe, Selbstzahler Eine Abrechnung über die
-            gesetzliche Krankenversicherung ist leider nicht möglich. Private
-            Kassen Beihilfe und Selbstzahler Krankengymnastik: 35,00 31,00
-            KG-Atemtherapie: 35,00 31,00 KG-ZNS/Neuro (KG Bobath Erw.): 53,00
-            49,00 Massage: 29,00 25,00 Ausfallsregelung Ich bitte darum, Termine
-            mindestens 24 Stunden im Voraus zu verschieben oder abzusagen.  ​
+            Eine Abrechnung über die gesetzliche Krankenversicherung ist leider
+            nicht möglich.
+        </p>
+        <table class="w-full border-collapse text-left">
+            <thead>
+                <tr class="bg-gray-200">
+                    <th class="px-4 py-2"></th>
+                    <th class="px-4 py-2">Private Kassen</th>
+                    <th class="px-4 py-2">Beihilfe und Selbstzahler</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="border-b">
+                    <td class="px-4 py-2">Krankengymnastik</td>
+                    <td class="px-4 py-2">35,00 €</td>
+                    <td class="px-4 py-2">31,00 €</td>
+                </tr>
+                <tr class="border-b">
+                    <td class="px-4 py-2">KG-Atemtherapie</td>
+                    <td class="px-4 py-2">35,00 €</td>
+                    <td class="px-4 py-2">31,00 €</td>
+                </tr>
+                <tr class="border-b">
+                    <td class="px-4 py-2">KG-ZNS/Neuro (KG Bobath Erw.)</td>
+                    <td class="px-4 py-2">53,00 €</td>
+                    <td class="px-4 py-2">49,00 €</td>
+                </tr>
+                <tr class="border-b">
+                    <td class="px-4 py-2">Massage</td>
+                    <td class="px-4 py-2">29,00 €</td>
+                    <td class="px-4 py-2">25,00 €</td>
+                </tr>
+                <tr class="border-b">
+                    <td class="px-4 py-2">Hausbesuch</td>
+                    <td class="px-4 py-2">20,00 €</td>
+                    <td class="px-4 py-2">20,00 €</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <h1 class=" pt-lg pb-xs text-2xl font-handwriting italic text-logo-purple">Ausfallsregelung</h1>
+        <p>
+            Ich bitte darum, Termine mindestens 24 Stunden im Voraus zu
+            verschieben oder abzusagen.
+        </p>
+        <p>
             Termine, die weniger als 24 Stunden im Voraus verschoben oder
-            abgesagt werden, stelle ich mit 50% der Kosten in Rechnung. 
+            abgesagt werden, stelle ich mit 50% der Kosten in Rechnung.
+        </p>
+        <p>
             Termine, die nicht abgesagt wurden, muss ich zu 100% in Rechnung
             stellen.
         </p>
