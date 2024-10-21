@@ -7,10 +7,11 @@
             class=" p-5 rounded-3xl bg-[#292d38a2] text-white font-handwriting text-center"
         >
             <p class=" text-xl leading-relaxed">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin
-                nec nisl eu nisi faucibus convallis vel id arcu. Proin non justo
-                non felis varius consequat. Interdum et malesuada fames ac ante
-                ipsum primis in faucibus.
+                „Eine Therapie ermöglicht das gefahrlose Experimentieren mit
+                Co-Regulation, die Entwicklung von Fertigkeiten zur Verbesserung
+                der eigenständigen Regulation und das Üben der Nutzung jener
+                neuronalen Schaltkreise, die soziale Verbundenheit fördern.“
+                -Deb Dana
             </p>
         </div>
     </div>
