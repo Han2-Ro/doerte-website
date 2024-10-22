@@ -108,7 +108,7 @@
             <input
                 type="hidden"
                 name="redirectTo"
-                value="https://preview.praxis-bruegmann.de/contact/success/"
+                value="https://praxis-bruegmann.de/contact/success/"
             />
             <input type="hidden" name="subject" value="Kontakt Formular" />
             <input

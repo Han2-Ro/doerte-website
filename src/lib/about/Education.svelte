@@ -70,6 +70,9 @@
             Shore, Terry Real)
         </p>
         <p>
+            2021: Trauma-Informed Stabilization Treatment (TIST), Janina Fisher
+        </p>
+        <p>
             04-05/2021: “Neurobiology of Feeling Safe Level 1: Working with
             Boundaries Inside and Out” (Julian Taylor Shore)
         </p>
@@ -83,9 +86,6 @@
             (Janina Fisher)
         </p>
         <p>12/2023: “Addiction, Trauma and the Brain” (Janina Fisher)</p>
-        <p>
-            02-03/2024: “Working with Self-Destructive Behaviors” (Lisa Ferentz)
-        </p>
         <p>06/2024: "Trauma und Sexualität" (Dr. med. Melanie Büttner, THZN)</p>
     </div>
 </section>
