@@ -1,4 +1,4 @@
-<footer class="py-lg bg-logo-purple/10 text-center">
+<footer class="py-lg bg-logo-purple/20 text-center">
     <div class="hidden lg:block px-lg">
         <p>Praxis für Körperarbeit & Traumatherapie • Dörte Brügmann</p>
         <p>Drausnickstr. 8 • 91052 Erlangen</p>
