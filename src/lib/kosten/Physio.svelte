@@ -2,16 +2,13 @@
 </script>
 
 <section class=" max-w-[80rem] mx-auto flex flex-col-reverse lg:flex-row-reverse py-xl">
-    <div id="quote" class="lg:w-2/5 flex flex-col-reverse p-10 py-10">
+    <div id="quote" class="lg:w-2/5 flex flex-col-reverse min-h-[35rem] p-5 lg:p-10">
         <div
-            class=" p-5 rounded-3xl bg-[#292d38a2] text-white font-handwriting text-center"
+            class="p-5 rounded-3xl bg-[#365314de] text-yellow-400 font-handwriting text-center"
         >
             <p class=" text-xl leading-relaxed">
-                „Eine Therapie ermöglicht das gefahrlose Experimentieren mit
-                Co-Regulation, die Entwicklung von Fertigkeiten zur Verbesserung
-                der eigenständigen Regulation und das Üben der Nutzung jener
-                neuronalen Schaltkreise, die soziale Verbundenheit fördern.“
-                -Deb Dana
+                „Eine Krise besteht darin, dass das Alte stirbt Und das Neue
+                [noch] nicht geboren werden kann.“ -Antonio Gramsci
             </p>
         </div>
     </div>

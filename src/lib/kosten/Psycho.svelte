@@ -1,11 +1,14 @@
 <section class=" py-xl max-w-[80rem] mx-auto flex flex-col-reverse lg:flex-row">
     <div id="quote" class="lg:w-2/5 flex flex-col-reverse p-7">
         <div
-            class=" p-5 rounded-3xl bg-[#1f2247a2] text-white font-handwriting text-center"
+            class=" p-5 rounded-3xl bg-[#3653148c] text-yellow-400 font-handwriting text-center"
         >
             <p class=" text-xl leading-relaxed">
-                „Eine Krise besteht darin, dass das Alte stirbt Und das Neue
-                [noch] nicht geboren werden kann.“ -Antonio Gramsci
+                „Eine Therapie ermöglicht das gefahrlose Experimentieren mit
+                Co-Regulation, die Entwicklung von Fertigkeiten zur Verbesserung
+                der eigenständigen Regulation und das Üben der Nutzung jener
+                neuronalen Schaltkreise, die soziale Verbundenheit fördern.“
+                -Deb Dana
             </p>
         </div>
     </div>
