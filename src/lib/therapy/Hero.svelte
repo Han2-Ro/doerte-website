@@ -1,8 +1,5 @@
-<script>
-    import Poppies from "$lib/assets/poppies.webp";
-</script>
 
-<section class="w-full h-[40rem] mb-20">
+<section class="w-full h-[25rem] lg:h-[40rem] mb-20">
     <div
         class=" max-w-[80rem] h-full mx-auto flex items-center justify-center flex-col lg:flex-row-reverse p-lg relative"
     >
