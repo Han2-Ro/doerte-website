@@ -1,5 +1,5 @@
 <section
-    class="flex flex-col lg:flex-row gap-md max-w-[80rem] mx-auto px-xs lg:px-sm lg:pl-xl py-2xl"
+    class="flex flex-col lg:flex-row gap-md max-w-[80rem] mx-auto px-xs lg:px-sm lg:pl-xl py-lg lg:py-2xl"
 >
     <div>
         <h1 class=" text-xl font-bold mb-md">Kontakt</h1>
@@ -55,7 +55,7 @@
     <div>
         <p>
             Schreiben Sie mir gerne, wenn Sie Fragen haben oder ein
-            Erstgespräch ausmachen wollen
+            Erstgespräch ausmachen möchten.
         </p>
         <form
             id="contactForm"

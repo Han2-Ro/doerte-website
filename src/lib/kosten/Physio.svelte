@@ -7,7 +7,7 @@
             class="p-5 rounded-3xl bg-[#365314de] text-yellow-400 font-handwriting text-center"
         >
             <p class=" text-xl leading-relaxed">
-                „Eine Krise besteht darin, dass das Alte stirbt Und das Neue
+                „Eine Krise besteht darin, dass das Alte stirbt und das Neue
                 [noch] nicht geboren werden kann.“ -Antonio Gramsci
             </p>
         </div>
@@ -66,10 +66,6 @@
         <p>
             Termine, die weniger als 24 Stunden im Voraus verschoben oder
             abgesagt werden, stelle ich mit 50% der Kosten in Rechnung.
-        </p>
-        <p>
-            Termine, die nicht abgesagt wurden, muss ich zu 100% in Rechnung
-            stellen.
         </p>
     </div>
 </section>
