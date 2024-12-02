@@ -61,7 +61,7 @@
             <p class="pt-xs">
                 Betroffene von sexuellem Missbrauch im Kindes- und Jugendalter
                 können finanzielle Unterstützung beim „Fonds sexueller
-                Missbrauch“ (FSM) beantragen: www.fonds-missbrauch.de
+                Missbrauch“ (FSM) beantragen: <a class="underline hover:no-underline" href="https://www.fonds-missbrauch.de">www.fonds-missbrauch.de</a> 
             </p>
             <p>Somatic-Experiencing wird dort als Methode anerkannt</p>
         </div>
