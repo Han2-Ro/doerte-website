@@ -64,8 +64,7 @@
             verschieben oder abzusagen.
         </p>
         <p>
-            Termine, die weniger als 24 Stunden im Voraus verschoben oder
-            abgesagt werden, stelle ich mit 50% der Kosten in Rechnung.
+            Nicht wahrgenommene oder nicht rechtzeitig abgesagte Termine (24 Stunden vorher) stelle ich mit 50% der Behandlungskosten in Rechnung.
         </p>
     </div>
 </section>

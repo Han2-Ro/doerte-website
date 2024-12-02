@@ -1,4 +1,4 @@
-<section class="mb-32 w-full h-[25rem]">
+<section class="mb-24 w-full h-[25rem]">
     <div class="h-full flex flex-col items-center p-md relative max-w-[80rem] mx-auto">
         <div
             class=" p-sm px-xs shadow-md shadow-black/50 lg:max-w-[60rem] rounded-3xl bg-lime-900 absolute -bottom-32 lg:-bottom-24 lg:right-lg font-handwriting text-yellow-400"
