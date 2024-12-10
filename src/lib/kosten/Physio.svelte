@@ -1,7 +1,7 @@
 <script>
 </script>
 
-<section class=" max-w-[80rem] mx-auto flex flex-col-reverse lg:flex-row-reverse py-xl">
+<section class=" max-w-[80rem] mx-auto flex flex-col-reverse lg:flex-row-reverse py-lg lg:py-xl">
     <div id="quote" class="lg:w-2/5 flex flex-col-reverse min-h-[35rem] p-5 lg:p-10">
         <div
             class="p-5 rounded-3xl bg-[#365314de] text-yellow-400 font-handwriting text-center"

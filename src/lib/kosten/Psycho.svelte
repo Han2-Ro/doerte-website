@@ -1,4 +1,4 @@
-<section class=" py-xl max-w-[80rem] mx-auto flex flex-col-reverse lg:flex-row">
+<section class="pt-xl max-w-[80rem] mx-auto flex flex-col-reverse lg:flex-row">
     <div id="quote" class="lg:w-2/5 flex flex-col-reverse p-7">
         <div
             class=" p-5 rounded-3xl bg-[#3653148c] text-yellow-400 font-handwriting text-center"
