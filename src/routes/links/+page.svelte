@@ -10,7 +10,6 @@
     <title>Links</title>
 </svelte:head>
 <Hero />
-<ComingSoon title="Links"/>
 <One />
 <Two />
 <Three />

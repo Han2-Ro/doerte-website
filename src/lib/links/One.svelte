@@ -4,13 +4,13 @@
         class=" h-[25rem] lg:min-h-[40rem] lg:w-2/5 flex flex-col-reverse p-sm"
     >
         <div
-            class=" p-xs rounded-3xl bg-[#365314b1] font-handwriting text-center"
+            class=" p-xs rounded-3xl bg-[#365314b1] font-handwriting text-center text-yellow-400"
         >
             <p class=" text-md leading-relaxed">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi ut aliquip ex ea commodo consequat.
+                „Resilienz ist die Fähigkeit, immer klarer zu erkennen, welche
+                Themen mich triggern, und in der Lage zu sein, immer leichter
+                zwischen altem, im Körper gespeichertem Trauma und aktuellem
+                Geschehen zu unterscheiden.“ - Dr. Isa Grüber
             </p>
         </div>
     </div>
@@ -21,7 +21,7 @@
             alt="Logo vom Somatic Experiencing (SE)® Deutschland e.V."
         />
         <p class=" pt-md">
-            Informationen zu Peter Levine und seine Methode „Somatic
+            Informationen zu Peter Levine und seiner Methode „Somatic
             Experiencing“
         </p>
         <a

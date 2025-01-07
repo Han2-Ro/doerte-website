@@ -6,13 +6,11 @@
         class=" h-[25rem] lg:min-h-[40rem] lg:w-2/5 flex flex-col-reverse p-sm"
     >
         <div
-            class="p-5 rounded-3xl bg-[#2f1f09bd] text-[#eedcb7] font-handwriting text-center"
+            class="p-5 rounded-3xl bg-[#2f1f09bd] text-[#eedcb7] font-handwriting text-center text-xl"
         >
             <p class=" text-md leading-relaxed">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi ut aliquip ex ea commodo consequat.
+                „Eine Reise von tausend Meilen beginnt mit dem ersten Schritt.“
+                - Tao Te King
             </p>
         </div>
     </div>
@@ -28,7 +26,9 @@
         >
             https://www.youtube.com/watch?v=wb37N48pEDs&list=PLOniOpzM7P2IjLJxEpBrr8ocJt-z375rb&index=15
         </a>
-        <p class="pt-sm">Ancestral Collective and Individual Trauma: Thomas Hübl</p>
+        <p class="pt-sm">
+            Ancestral Collective and Individual Trauma: Thomas Hübl
+        </p>
         <a
             class="text-blue-600 hover:text-blue-500 decoration-2 hover:underline focus:outline-none focus:underline"
             href="https://www.youtube.com/watch?v=sGzkGi1hYi0"
@@ -42,13 +42,14 @@
         >
             https://www.youtube.com/watch?v=wH0tdfp_tVA
         </a>
+        <h2 class="font-bold pt-md">„Ist das Normal?“</h2>
         <p class="pt-sm">
-            „Ist das Normal?“ Podcast von Dr. Melanie Büttner (Sexual- und
-            Psychotherapeutin, Fachärztin und Wissenschaftlerin) und Sven
-            Stockrahm (Wissenschaftsjournalist bei ZEIT ONLINE) über alle
-            möglichen Themen rund um Sexualität und Beziehungen. Über das
-            Bereichernde und Lustvolle daran. Über Herausforderungen, Konflikte
-            und Trauma. Und über das, was Entwicklung ausmacht.
+            Podcast von Dr. Melanie Büttner (Sexual- und Psychotherapeutin,
+            Fachärztin und Wissenschaftlerin) und Sven Stockrahm
+            (Wissenschaftsjournalist bei ZEIT ONLINE) über alle möglichen Themen
+            rund um Sexualität und Beziehungen. Über das Bereichernde und
+            Lustvolle daran. Über Herausforderungen, Konflikte und Trauma. Und
+            über das, was Entwicklung ausmacht.
         </p>
         <a
             class="text-blue-600 hover:text-blue-500 decoration-2 hover:underline focus:outline-none focus:underline"

@@ -1,16 +1,14 @@
 <section class=" py-xl max-w-[80rem] mx-auto flex flex-col-reverse lg:flex-row">
     <div
         id="quote"
-        class=" h-[25rem] lg:min-h-[40rem] lg:w-2/5 flex flex-col-reverse lg:pl-[15rem] p-7"
+        class=" h-[25rem] lg:min-h-[40rem] lg:w-2/5 flex flex-col lg:pl-[15rem] lg:p-lg p-7"
     >
         <div
-            class=" p-5 rounded-3xl bg-[#5d2c09ae] text-[#eedcb7] font-handwriting text-center"
+            class=" p-5 rounded-3xl bg-[#5d2c09ae] text-[#eedcb7] font-handwriting text-center text-xl"
         >
             <p class=" text-md leading-relaxed">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi ut aliquip ex ea commodo consequat.
+                „Die Wunde ist der Ort, an dem das Licht in dich eintritt.“ -
+                Rumi
             </p>
         </div>
     </div>
