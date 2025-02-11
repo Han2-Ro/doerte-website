@@ -14,7 +14,7 @@
             </p>
         </div>
     </div>
-    <div class="lg:w-3/5 p-sm">
+    <div class="lg:w-3/5 p-sm break-words">
         <img
             class=" max-w-[20rem]"
             src="https://www.somatic-experiencing.de/wp-content/uploads/2020/03/Somatic_Experiencing_Logo_RGB.png"
