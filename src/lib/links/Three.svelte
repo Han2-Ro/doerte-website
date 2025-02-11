@@ -56,9 +56,9 @@
             - Terry Real
         </p>
         <p class="pt-sm">
-            „Trauma erkennen wir daran, wie wir unsere Beziehungen fürchten und
+            „Trauma erkennen wir daran, wie wir unsere Beziehungen führen und
             erleben. Das Maß an Heilung von Traumafolgen erkennen wir daran, wie
-            sicher, wohl und lebendig wir uns in unseren Beziehungenfühlen.“ -
+            sicher, wohl und lebendig wir uns in unseren Beziehungen fühlen.“ -
             Verena König
         </p>
     </div>
