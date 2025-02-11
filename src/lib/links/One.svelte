@@ -58,7 +58,7 @@
         >
 
         <p class="pt-sm">
-            Peter Levine erzellt von der Geschichte und der SE-Therapie von Ray,
+            Peter Levine erzählt von der Geschichte und der SE-Therapie von Ray,
             einem Soldaten, der im Krieg im Irak war (engl., 24 min)
         </p>
         <a
