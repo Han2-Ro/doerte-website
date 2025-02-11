@@ -1,5 +1,5 @@
 <section
-    class=" max-w-[80rem] mx-auto flex flex-col-reverse lg:flex-row-reverse py-xl"
+    class=" max-w-[80rem] mx-auto flex flex-col-reverse lg:flex-row-reverse py-md lg:py-xl"
 >
     <div
         id="quote"
@@ -42,6 +42,30 @@
         >
             https://www.youtube.com/watch?v=wH0tdfp_tVA
         </a>
+
+        <p class="pt-sm">
+            Healing Trauma and Spiritual Growth: Peter Levine & Thomas Hübl
+            (engl., 56 min)
+        </p>
+
+        <a
+            class="text-blue-600 hover:text-blue-500 decoration-2 hover:underline focus:outline-none focus:underline"
+            href="https://www.youtube.com/watch?v=4Ew8bXO3Wko"
+        >
+            https://www.youtube.com/watch?v=4Ew8bXO3Wko
+        </a>
+
+        <p class="pt-sm">
+            William Ury, TEDx – Talk, The Power of Listening, (15 min, engl. mit
+            deutschen Untertiteln)
+        </p>
+        <a
+            class="text-blue-600 hover:text-blue-500 decoration-2 hover:underline focus:outline-none focus:underline"
+            href="https://www.youtube.com/watch?v=saXfavo1OQo&list=PLjOsqqMdhPK6FseqO_8vr6KIlDrZepIK1"
+        >
+            https://www.youtube.com/watch?v=saXfavo1OQo&list=PLjOsqqMdhPK6FseqO_8vr6KIlDrZepIK1
+        </a>
+
         <h2 class="font-bold pt-md">„Ist das Normal?“</h2>
         <p class="pt-sm">
             Podcast von Dr. Melanie Büttner (Sexual- und Psychotherapeutin,

@@ -1,4 +1,4 @@
-<section class=" py-xl max-w-[80rem] mx-auto flex flex-col-reverse lg:flex-row">
+<section class="py-md lg:py-xl max-w-[80rem] mx-auto flex flex-col-reverse lg:flex-row">
     <div
         id="quote"
         class=" h-[25rem] lg:min-h-[40rem] lg:w-2/5 flex flex-col-reverse p-sm"
@@ -6,7 +6,7 @@
         <div
             class=" p-xs rounded-3xl bg-[#365314b1] font-handwriting text-center text-yellow-400"
         >
-            <p class=" text-md leading-relaxed">
+            <p class=" text-xl leading-relaxed">
                 „Resilienz ist die Fähigkeit, immer klarer zu erkennen, welche
                 Themen mich triggern, und in der Lage zu sein, immer leichter
                 zwischen altem, im Körper gespeichertem Trauma und aktuellem
@@ -46,9 +46,30 @@
             class="text-blue-600 hover:text-blue-500 decoration-2 hover:underline focus:outline-none focus:underline"
             >https://www.youtube.com/watch?v=4Zsp4iRAGtc&list=PLOniOpzM7P2IppG1Nta_PM0bPvUlAQnT8&index=24</a
         >
+        <p class="pt-sm">
+            Treating Trauma: 2 Ways to Help Clients Feel Safe, with Peter Levine
+            (engl., 6 min)
+        </p>
+
+        <a
+            href="https://www.youtube.com/watch?v=G7zAseaIyFA"
+            class="text-blue-600 hover:text-blue-500 decoration-2 hover:underline focus:outline-none focus:underline"
+            >https://www.youtube.com/watch?v=G7zAseaIyFA</a
+        >
+
+        <p class="pt-sm">
+            Peter Levine erzellt von der Geschichte und der SE-Therapie von Ray,
+            einem Soldaten, der im Krieg im Irak war (engl., 24 min)
+        </p>
+        <a
+            href="https://www.youtube.com/watch?v=bjeJC86RBgE"
+            class="text-blue-600 hover:text-blue-500 decoration-2 hover:underline focus:outline-none focus:underline"
+            >https://www.youtube.com/watch?v=bjeJC86RBgE</a
+        >
+
         <h2 class="pt-md font-bold">Polyvagaltheorie:</h2>
         <p class="pt-sm">
-            Der Polyvagal-Kreis: Info darüber, wie unser Autonomes Nervensystem
+            Der Polyvagal-Kreis: Info über das, wie unser Autonomes Nervensystem
             funktioniert und wie sich das Erleben von Bedrohung oder Sicherheit
             auf uns auswirken
         </p>
