@@ -18,7 +18,9 @@
                 “Safety is much more than the absence of threat, safety is the
                 presence of connection.”
             </p>
-            <p class=" text-base lg:text-xl italic text-center">- Stephen Porges</p>
+            <p class=" text-base lg:text-xl italic text-center">
+                - Stephen Porges
+            </p>
         </div>
     </div>
 </section>
