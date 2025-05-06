@@ -3,9 +3,17 @@
         <p>Praxis für Körperarbeit & Traumatherapie • Dörte Brügmann</p>
         <p>Drausnickstr. 8 • 91052 Erlangen</p>
         <p>
-            Tel.: 01515 - 9178819 • <a
+            Tel.: <a
+                href="tel:+4915159178819"
+                class="underline hover:no-underline"
+            >
+                01515 - 9178819
+            </a>
+            •
+            <a
                 href="mailto:kontakt@praxis-bruegmann.de"
-                class="underline hover:no-underline">kontakt@praxis-bruegmann.de</a
+                class="underline hover:no-underline"
+                >kontakt@praxis-bruegmann.de</a
             >
         </p>
     </div>
@@ -13,9 +21,15 @@
         <p>Praxis für Körperarbeit & Traumatherapie</p>
         <p>Dörte Brügmann</p>
         <p>Drausnickstr. 8 • 91052 Erlangen</p>
-        <p>Tel.: 01515 - 9178819</p>
-        <a href="mailto:kontakt@praxis-bruegmann.de" class="underline hover:no-underline"
-            >kontakt@praxis-bruegmann.de</a
+        <p>
+            Tel.: <a
+                href="tel:+4915159178819"
+                class="underline hover:no-underline">01515 - 9178819</a
+            >
+        </p>
+        <a
+            href="mailto:kontakt@praxis-bruegmann.de"
+            class="underline hover:no-underline">kontakt@praxis-bruegmann.de</a
         >
     </div>
     <p class="pt-sm text-gray-700 text-sm">
