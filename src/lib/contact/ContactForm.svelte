@@ -1,9 +1,9 @@
 <section
-    class="flex flex-col lg:flex-row gap-md max-w-[80rem] mx-auto px-xs lg:px-sm lg:pl-xl py-lg lg:py-2xl"
+    class="max-w-[80rem] mx-auto px-xs lg:px-sm lg:pl-xl py-lg lg:py-2xl"
 >
-    <div>
-        <h1 class=" text-xl font-bold mb-md">Kontakt</h1>
-        <p class="mb-sm">Dörte Brügmann</p>
+    <div class="flex flex-col">
+        <h1 class=" text-3xl font-bold mb-md">Kontakt</h1>
+        <p class="mb-sm text-lg">Dörte Brügmann</p>
         <a
             class="flex gap-xs mb-sm"
             href="https://maps.app.goo.gl/yXL79K9GsJk3xzYt9"
@@ -50,73 +50,10 @@
                 kontakt@praxis-bruegmann.de
             </p>
         </a>
-    </div>
-    <div class=" hidden lg:block h-[28rem] border-l-2 border-logo-purple"></div>
-    <div>
         <p>
             Schreiben Sie mir gerne, wenn Sie Fragen haben oder ein Erstgespräch
             ausmachen möchten.
         </p>
-        <form
-            id="contactForm"
-            class=" px-md pt-lg flex flex-col"
-            action="https://api.staticforms.xyz/submit"
-            method="post"
-        >
-            <input
-                class="input-field"
-                type="hidden"
-                name="accessKey"
-                value="581f061f-3033-4a65-a18a-98a3cb32d908"
-            />
-            <input type="hidden" name="replyTo" value="@" />
-            <input type="text" name="honeypot" style="display: none;" />
-            <div class="flex flex-col lg:flex-row gap-md">
-                <div>
-                    <label for="name">Name *</label>
-                    <input
-                        class="input-field"
-                        type="text"
-                        name="name"
-                        required
-                    />
-                </div>
-                <div>
-                    <label for="phone">Telefon</label>
-                    <input class="input-field" type="tel" name="phone" />
-                </div>
-            </div>
-            <label class="pt-md" for="email">E-Mail *</label>
-            <input
-                id="email"
-                class="input-field"
-                type="email"
-                name="email"
-                required
-            />
-            <label class="pt-md" for="message">Nachricht *</label>
-            <textarea class="input-field" name="message" required></textarea>
-            <div>
-                <input type="checkbox" name="checkbox" required />
-                <label class=" text-sm" for="checkbox"
-                    >* Ich willige ein, dass diese Website meine übermittelten
-                    Informationen speichert, sodass meine Anfrage beantwortet
-                    werden kann.</label
-                >
-            </div>
-            <!-- Change this for prod -->
-            <input
-                type="hidden"
-                name="redirectTo"
-                value="https://praxis-bruegmann.de/contact/success/"
-            />
-            <input type="hidden" name="subject" value="Kontakt Formular" />
-            <input
-                class="mt-md w-28 p-xs bg-[#afc8fd] rounded-full border-2 border-slate-600"
-                type="submit"
-                value="Senden"
-            />
-        </form>
     </div>
 </section>
 
