@@ -22,7 +22,7 @@
             Traumatherapie:
         </h2>
         <p class="text-md pt-sm">
-            Für eine Einzelsitzung berechne ich 80,00 € &nbsp;&nbsp;&nbsp; (60
+            Für eine Einzelsitzung berechne ich 85,00 € &nbsp;&nbsp;&nbsp; (60
             min)
         </p>
         <div class=" text-xs pt-5">
