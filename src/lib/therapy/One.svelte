@@ -55,19 +55,6 @@
             gegenseitig regulieren können.
         </p>
 
-        <p class="mb-sm">
-            Somatic Experiencing (SE)® definiert Trauma nicht als das
-            Ereignis, sondern vielmehr als das, was dieses Ereignis an Spuren in
-            unserem Körper und unserem Nervensystem hinterlassen hat, wenn
-            unsere Verteidigungsreaktionen (Kampf/Flucht/Erstarrung) nicht
-            vollendet werden konnten oder wenn es, z.B. durch die fehlende
-            Anwesenheit eines anderen empathischen Menschen nicht zur Entladung
-            der hohen Stressenergie kommen konnte. Trauma ist, wie Peter Levine
-            sagt, ein Verwandlungskünstler und kann sich, manchmal auch erst
-            Monate oder Jahre nach dem Ereignis, in vielfältiger Gestalt zeigen.
-            So kann es auch passieren, dass wir eventuell gar keinen
-            Zusammenhang mehr mit dem Ereignis herstellen.
-        </p>
     </div>
 </section>
 
