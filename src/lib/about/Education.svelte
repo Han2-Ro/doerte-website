@@ -44,6 +44,9 @@
                 02/2024-04/2024: PITT: Psychodynamisch Imaginative
                 Traumatherapie (Prof. Luise Reddemann, THZN, Nürnberg)
             </li>
+            <li>
+                01/2025 – 04/2026: Somatic Ego State Therapie nach Maggie Phillips, (Silvia Zanotta und Rachporn Sangkasaad)
+            </li>
         </ul>
         <h3 class="text-lg font-bold pt-md pb-xs">
             Somatic Experiencing® Seminare:
