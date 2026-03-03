@@ -44,7 +44,7 @@
         <p class="mb-sm">
             Die Behandlung kann im Sitzen, Stehen oder Liegen stattfinden.
             Wesentliche Elemente im Heilungsprozess sind Orientierung im Hier
-            und Jetzt, Sicherheit, Erdung, Zentrierung, die Verkörperung von
+            und Jetzt, Sicherheit, Erdung, die Verkörperung von
             Ressourcen, das Pendeln zwischen Ressourcen und Aktivierung, und das
             Nachspüren von Körperempfindungen, Gefühlen, Verhaltensweisen,
             Gedanken, Bildern, Bewegungen und Bewegungsimpulsen („innerer
@@ -54,8 +54,7 @@
         <p class="mb-sm">
             Mit SE ist es möglich, auch ohne Inhalt zu arbeiten, wenn das
             Ereignis emotional zu belastend erscheint oder wenn es nicht
-            erinnert wird oder in Zeiten vor unserer Sprachentwicklung
-            stattgefunden hat. Dabei weisen uns die Reaktionen unseres Körpers
+            erinnert wird. Dabei weisen uns die Reaktionen unseres Körpers
             und unseres Nervensystems den Weg (implizites Körpergedächtnis).
         </p>
         <p class="mb-sm">
@@ -63,7 +62,7 @@
             Berührung gearbeitet werden. Dadurch können z.B. vermehrtes
             Containment gegeben oder im Gewebe und in unseren Körperdiaphragmen
             sitzende Schockenergie gelöst werden. Auch für frühe Traumen kann
-            das eine Möglichkeit sein.
+            das eine gute Möglichkeit sein.
         </p>
 
         <p class="mb-sm">
@@ -81,9 +80,8 @@
 
         <p class="mb-sm">
             Somatic Experiencing® lässt sich sehr gut mit anderen
-            therapeutischen Methoden wie der Psychodynamisch Imaginativen
-            Traumatherapie und der Arbeit mit Selbstanteilen (SEST- Somatic Ego
-            States Therapie) verbinden.
+            therapeutischen Methoden wie z.B. der Arbeit mit Selbstanteilen (SEST- Somatic Ego
+            State Therapie) verbinden.
         </p>
 
         <p class="">

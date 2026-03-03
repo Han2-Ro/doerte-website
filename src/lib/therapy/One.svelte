@@ -34,21 +34,34 @@
         <p class="mb-sm">
             Traumatisierende Ereignisse können in vielerlei Lebenssituationen
             entstehen, wie z.B. durch Unfälle, Stürze, schwere Krankheiten,
-            medizinischen Eingriffe und Operationen, Übergriffe, den Verlust
-            eines geliebten Menschen oder Tieres, den Verlust von Heimat, das
+            medizinischen Eingriffe, Übergriffe, den Verlust
+            eines geliebten Menschen oder Tieres, das
             Erfahren oder Miterleben von Gewalt, Missbrauch, Krieg oder
             Naturkatastrophen. Auch scheinbar geringfügige Verletzungen, oder
-            ein ausgelacht werden beim Vorsingen in der Schule, können
+            z.B. ein ausgelacht werden beim Vorsingen in der Schule, können
             traumatisierende Wirkung haben.
         </p>
 
         <p class="mb-sm">
-            Dabei definiert Somatic Experiencing (SE)® Trauma nicht als das
+            Aber Trauma geschieht nicht nur durch das, was uns passiert, sondern
+            auch durch das, was uns nicht passiert, was wir aber hätten bekommen
+            sollen. So kann fehlender Körperkontakt in den ersten Lebensjahren,
+            fehlendes versorgt werden, fehlende emotionale Einstimmungsfähigkeit
+            unserer ersten Bezugspersonen, fehlende Verlässlichkeit oder
+            fehlendes Respektieren unserer Grenzen zum Fehlen eines grundlegenden Gefühls von
+            Sicherheit führen. Wir konnten aufgrund fehlender Ko-Regulation
+            nicht so gut lernen, wie wir uns gut selbst
+            oder uns im Zusammensein mit anderen Menschen
+            gegenseitig regulieren können.
+        </p>
+
+        <p class="mb-sm">
+            Somatic Experiencing (SE)® definiert Trauma nicht als das
             Ereignis, sondern vielmehr als das, was dieses Ereignis an Spuren in
             unserem Körper und unserem Nervensystem hinterlassen hat, wenn
             unsere Verteidigungsreaktionen (Kampf/Flucht/Erstarrung) nicht
-            vollendet werden konnten oder wenn es, z.B. durch das Fehlen der
-            Anwesenheit eines anderen empathischen Menschen, nicht zur Entladung
+            vollendet werden konnten oder wenn es, z.B. durch die fehlende
+            Anwesenheit eines anderen empathischen Menschen nicht zur Entladung
             der hohen Stressenergie kommen konnte. Trauma ist, wie Peter Levine
             sagt, ein Verwandlungskünstler und kann sich, manchmal auch erst
             Monate oder Jahre nach dem Ereignis, in vielfältiger Gestalt zeigen.
