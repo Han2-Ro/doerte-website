@@ -21,6 +21,10 @@ html {
     font-size: 100%;
 }
 
+a {
+  overflow-wrap: break-word;
+}
+
 @media (min-width: 1024px) {
     html {
         font-size: 120%;

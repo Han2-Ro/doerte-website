@@ -1,5 +1,4 @@
 <script>
-    import ComingSoon from "$lib/components/ComingSoon.svelte";
     import Hero from "$lib/links/Hero.svelte";
     import One from "$lib/links/One.svelte";
     import Two from "$lib/links/Two.svelte";
